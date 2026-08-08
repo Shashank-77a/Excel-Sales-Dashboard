@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Sales_Rep,Branch_Code,Region,Product,Lead_Source,Customer_Segment,Customer_Age,Account_Tenure_Months,Revenue,Processing_Fee,Discount_Applied,Target_Achieved,CSAT_Score
+TRX-10000,07-03-26 0:00,Jamie,BR-006,East,Wealth Management,Walk-in,Retail,74,16,25114.07,350.3,179.26,No,4
+TRX-10001,16-12-25 0:00,Morgan,BR-015,South,Personal Loan,Website,High Net Worth,28,28,9331.6,106.51,121.35,Yes,5
+TRX-10002,17-08-25 0:00,Casey,BR-001,East,Auto Loan,Social Media,High Net Worth,44,112,5853.67,394.49,136.7,Yes,5
+TRX-10003,24-12-25 0:00,Jamie,BR-009,Central,Mortgage,Website,Retail,35,35,42184.29,144.59,141.15,Yes,5
+TRX-10004,19-11-25 0:00,Taylor,BR-001,South,Auto Loan,Website,High Net Worth,63,60,30899.59,195.55,246.26,No,1
+TRX-10005,28-05-26 0:00,Drew,BR-005,West,Mortgage,Walk-in,High Net Worth,51,45,16628.32,418.66,70.9,No,5
+TRX-10006,20-04-26 0:00,Casey,BR-004,East,Mortgage,Website,Retail,29,46,9990.94,291.44,132.27,Yes,4
+TRX-10007,23-07-26 0:00,Casey,BR-013,South,Auto Loan,Walk-in,Retail,59,72,27997.12,436.97,78.4,Yes,2
+TRX-10008,13-02-26 0:00,Jamie,BR-012,East,Mortgage,Social Media,Corporate,65,108,29404,145.87,73.74,No,5
+TRX-10009,27-07-26 0:00,Jordan,BR-013,South,Mortgage,Email Campaign,SME,22,55,10746.18,323.5,138.01,Yes,2
+TRX-10010,15-10-25 0:00,Taylor,BR-013,North,Personal Loan,Walk-in,SME,28,119,42644.58,87.71,77.44,Yes,4
+TRX-10011,30-06-26 0:00,Jamie,BR-014,East,Wealth Management,Social Media,Retail,27,86,4671.09,339.38,69.22,Yes,5
+TRX-10012,23-02-26 0:00,Taylor,BR-003,West,Wealth Management,Email Campaign,Retail,64,85,18126.61,393.14,167.18,No,1
+TRX-10013,27-09-25 0:00,Taylor,BR-013,West,Personal Loan,Referral,High Net Worth,71,26,34179.03,313.22,30.39,Yes,1
+TRX-10014,25-04-26 0:00,Drew,BR-006,Central,Auto Loan,Walk-in,Corporate,59,104,14068.96,169.8,135.18,No,2
+TRX-10015,05-07-26 0:00,Casey,BR-002,South,Credit Card,Walk-in,Corporate,62,85,41469.92,64.1,49.75,Yes,1
+TRX-10016,07-01-26 0:00,Morgan,BR-003,East,Credit Card,Referral,Retail,36,25,37123.46,103.75,3.1,No,1
+TRX-10017,27-11-25 0:00,Drew,BR-005,Central,Credit Card,Referral,High Net Worth,55,105,39556.63,330.04,50.03,No,1
+TRX-10018,24-05-26 0:00,Drew,BR-015,East,Personal Loan,Walk-in,High Net Worth,50,65,6395.77,470.49,182,Yes,4
+TRX-10019,21-12-25 0:00,Taylor,BR-009,South,Personal Loan,Referral,SME,30,6,7457.08,142.94,141.83,Yes,1
+TRX-10020,01-06-26 0:00,Sam,BR-002,West,Mortgage,Website,SME,58,23,14680.45,380.76,4.21,Yes,3
+TRX-10021,30-05-26 0:00,Casey,BR-010,North,Credit Card,Email Campaign,High Net Worth,38,115,26144.82,439.9,10.94,Yes,5
+TRX-10022,02-06-26 0:00,Jordan,BR-008,West,Auto Loan,Email Campaign,SME,70,64,37526.8,284.4,180.51,No,1
+TRX-10023,24-12-25 0:00,Drew,BR-014,Central,Auto Loan,Email Campaign,Retail,25,87,41908.28,351.17,14.66,Yes,1
+TRX-10024,12-04-26 0:00,Morgan,BR-002,North,Credit Card,Website,High Net Worth,73,43,35364.6,416.76,268.26,No,1
+TRX-10025,21-04-26 0:00,Sam,BR-011,Central,Credit Card,Referral,SME,49,107,46465.55,167.3,45.63,Yes,3
+TRX-10026,06-07-26 0:00,Sam,BR-013,South,Credit Card,Social Media,Corporate,59,23,37067.8,183.6,148,Yes,1
+TRX-10027,11-11-25 0:00,Jordan,BR-005,North,Personal Loan,Referral,High Net Worth,54,96,15660.26,50.28,92.93,Yes,1
+TRX-10028,01-07-26 0:00,Drew,BR-007,Central,Personal Loan,Walk-in,High Net Worth,63,30,13621.52,483.39,257.62,Yes,5
+TRX-10029,05-06-26 0:00,Morgan,BR-008,South,Personal Loan,Email Campaign,Corporate,65,77,34961.53,462.9,140.09,Yes,3
+TRX-10030,21-12-25 0:00,Casey,BR-001,West,Wealth Management,Referral,Retail,43,107,10047.09,394.06,80.36,No,3
+TRX-10031,10-05-26 0:00,Alex,BR-006,South,Auto Loan,Social Media,Corporate,25,18,5089.38,85.58,15.26,Yes,1
+TRX-10032,24-03-26 0:00,Morgan,BR-001,East,Auto Loan,Walk-in,High Net Worth,50,87,26845.03,251.38,219.81,Yes,3
+TRX-10033,16-07-26 0:00,Jordan,BR-002,South,Mortgage,Website,Retail,26,79,41171.26,95.85,123.38,No,2
+TRX-10034,21-08-25 0:00,Sam,BR-015,South,Personal Loan,Website,SME,66,97,5518.3,57.16,0.58,No,3
+TRX-10035,13-11-25 0:00,Casey,BR-001,East,Wealth Management,Social Media,SME,64,21,39698.62,327.28,1.88,Yes,3
+TRX-10036,30-08-25 0:00,Morgan,BR-011,Central,Wealth Management,Walk-in,SME,24,57,40672.81,482.37,161.76,Yes,3
+TRX-10037,18-07-26 0:00,Alex,BR-005,Central,Auto Loan,Email Campaign,High Net Worth,49,103,24372.56,456.29,77.82,Yes,4
+TRX-10038,21-08-25 0:00,Alex,BR-010,South,Personal Loan,Referral,Corporate,43,23,3336.86,363.54,127.23,No,4
+TRX-10039,22-04-26 0:00,Taylor,BR-015,East,Mortgage,Walk-in,Retail,26,91,9142.2,93.49,90.84,No,4
+TRX-10040,14-04-26 0:00,Taylor,BR-009,East,Personal Loan,Website,SME,52,45,35517.6,173.37,172.69,No,3
+TRX-10041,01-02-26 0:00,Jamie,BR-006,West,Credit Card,Social Media,Retail,62,44,35733.01,194.03,183.39,No,2
+TRX-10042,03-01-26 0:00,Jordan,BR-011,Central,Personal Loan,Social Media,High Net Worth,38,82,44968.59,393.42,299.04,Yes,3
+TRX-10043,20-12-25 0:00,Drew,BR-011,North,Credit Card,Referral,SME,35,88,29342.96,411.01,30.74,No,1
+TRX-10044,20-03-26 0:00,Morgan,BR-001,Central,Credit Card,Social Media,High Net Worth,60,115,6643.31,223.3,258.88,Yes,2
+TRX-10045,28-02-26 0:00,Morgan,BR-013,Central,Mortgage,Social Media,Corporate,52,47,6510.04,238.05,53.2,Yes,4
+TRX-10046,01-02-26 0:00,Drew,BR-001,West,Auto Loan,Walk-in,High Net Worth,29,40,36196.05,70.03,177.24,Yes,5
+TRX-10047,02-01-26 0:00,Jamie,BR-002,North,Personal Loan,Email Campaign,High Net Worth,57,51,9597.34,180.11,151.73,No,2
+TRX-10048,09-12-25 0:00,Sam,BR-009,West,Credit Card,Referral,Corporate,30,42,16755.08,253.08,3.6,No,4
+TRX-10049,13-05-26 0:00,Sam,BR-003,North,Personal Loan,Walk-in,Retail,40,7,24616.99,102.64,186.55,Yes,2
+TRX-10050,29-11-25 0:00,Jamie,BR-015,South,Auto Loan,Email Campaign,Corporate,26,50,1725.86,253.97,15.67,No,2
+TRX-10051,14-09-25 0:00,Sam,BR-001,North,Auto Loan,Walk-in,Corporate,68,48,12816.54,433.93,137.64,No,3
+TRX-10052,05-03-26 0:00,Taylor,BR-005,West,Wealth Management,Walk-in,High Net Worth,23,84,20690.54,311.59,235.5,Yes,1
+TRX-10053,07-05-26 0:00,Morgan,BR-007,Central,Auto Loan,Social Media,Retail,62,91,14342,85.52,159.06,Yes,5
+TRX-10054,04-09-25 0:00,Jamie,BR-006,North,Mortgage,Email Campaign,SME,31,6,7250.33,136.25,27.1,No,4
+TRX-10055,12-10-25 0:00,Morgan,BR-012,North,Credit Card,Referral,Corporate,63,91,36536.61,263.54,89.51,Yes,2
+TRX-10056,13-08-25 0:00,Drew,BR-001,East,Wealth Management,Referral,Retail,37,9,40750.81,212.67,165.89,Yes,5
+TRX-10057,02-08-25 0:00,Alex,BR-005,Central,Mortgage,Email Campaign,Corporate,52,117,13245.21,211.43,60.54,No,2
+TRX-10058,18-07-26 0:00,Taylor,BR-015,South,Personal Loan,Social Media,Corporate,24,109,38833.76,288.17,93.55,No,1
+TRX-10059,11-10-25 0:00,Casey,BR-005,West,Credit Card,Website,Corporate,24,57,19584.9,312.98,54.56,No,5
+TRX-10060,11-07-26 0:00,Taylor,BR-006,South,Auto Loan,Walk-in,Corporate,37,31,25580.95,408.59,92.71,No,4
+TRX-10061,03-03-26 0:00,Jamie,BR-003,Central,Credit Card,Social Media,High Net Worth,61,21,42872.05,203.43,266.36,Yes,2
+TRX-10062,22-07-26 0:00,Casey,BR-005,North,Personal Loan,Email Campaign,Retail,39,90,37622.71,412.46,91.02,Yes,1
+TRX-10063,17-10-25 0:00,Alex,BR-007,North,Wealth Management,Walk-in,Retail,25,40,40353.28,202.38,111.18,Yes,5
+TRX-10064,20-01-26 0:00,Jamie,BR-005,Central,Wealth Management,Referral,Retail,52,112,7273.84,74.94,80.8,Yes,2
+TRX-10065,18-05-26 0:00,Jordan,BR-005,North,Wealth Management,Website,Corporate,42,45,3951.11,299.38,92.02,No,2
+TRX-10066,15-03-26 0:00,Morgan,BR-005,North,Auto Loan,Referral,High Net Worth,26,77,44723.53,314.56,4.54,Yes,4
+TRX-10067,09-12-25 0:00,Alex,BR-010,North,Mortgage,Email Campaign,Corporate,55,49,19697.8,470.54,56.75,Yes,1
+TRX-10068,26-03-26 0:00,Morgan,BR-010,West,Mortgage,Walk-in,Corporate,42,87,14750.04,376.73,87.32,Yes,3
+TRX-10069,08-03-26 0:00,Sam,BR-003,West,Credit Card,Email Campaign,Retail,21,20,36372.46,463,126.76,No,2
+TRX-10070,12-06-26 0:00,Jordan,BR-001,East,Auto Loan,Walk-in,Corporate,40,101,41902.57,458.76,90.01,Yes,5
+TRX-10071,22-09-25 0:00,Jordan,BR-005,South,Wealth Management,Social Media,SME,42,118,43193.24,322.06,67.56,Yes,4
+TRX-10072,23-12-25 0:00,Alex,BR-014,Central,Wealth Management,Website,Corporate,68,117,16141.86,287.49,77.62,Yes,4
+TRX-10073,09-03-26 0:00,Jordan,BR-009,Central,Personal Loan,Social Media,SME,31,92,42684.51,300.85,48.46,No,2
+TRX-10074,27-11-25 0:00,Casey,BR-014,Central,Personal Loan,Social Media,Corporate,33,17,2526.23,490.25,184.9,Yes,2
+TRX-10075,26-02-26 0:00,Jordan,BR-001,East,Wealth Management,Email Campaign,High Net Worth,62,28,2958.24,397.93,156.52,Yes,2
+TRX-10076,30-04-26 0:00,Morgan,BR-003,West,Wealth Management,Website,High Net Worth,23,41,31364.2,97.82,4.02,Yes,3
+TRX-10077,10-08-25 0:00,Morgan,BR-013,East,Auto Loan,Walk-in,Retail,29,66,3623.77,400.29,3.89,No,2
+TRX-10078,05-05-26 0:00,Jamie,BR-013,Central,Mortgage,Walk-in,Corporate,32,25,16568.15,126.74,194.59,Yes,1
+TRX-10079,13-07-26 0:00,Morgan,BR-004,South,Personal Loan,Referral,SME,43,58,33801.42,251.31,44.29,Yes,5
+TRX-10080,11-05-26 0:00,Jamie,BR-014,North,Mortgage,Walk-in,SME,34,114,17194.71,144.71,161.12,Yes,2
+TRX-10081,06-06-26 0:00,Morgan,BR-001,West,Auto Loan,Email Campaign,Corporate,53,41,9390.19,360.31,11.66,Yes,3
+TRX-10082,21-07-26 0:00,Casey,BR-001,West,Wealth Management,Social Media,SME,38,6,14426.86,444.79,184.23,No,5
+TRX-10083,19-04-26 0:00,Drew,BR-008,East,Mortgage,Social Media,High Net Worth,69,75,23149.98,180.66,262.32,Yes,4
+TRX-10084,19-02-26 0:00,Jamie,BR-002,West,Wealth Management,Social Media,SME,61,38,24031.6,86.9,114.22,No,2
+TRX-10085,08-04-26 0:00,Taylor,BR-012,Central,Wealth Management,Website,Retail,29,6,39258.51,184.32,1.8,No,5
+TRX-10086,15-04-26 0:00,Sam,BR-015,Central,Credit Card,Walk-in,High Net Worth,43,45,37632.58,352.56,77.34,Yes,4
+TRX-10087,23-10-25 0:00,Alex,BR-008,East,Mortgage,Email Campaign,High Net Worth,30,75,23112.48,197.94,122.04,No,3
+TRX-10088,12-05-26 0:00,Morgan,BR-007,Central,Mortgage,Website,High Net Worth,39,14,42360.53,175.15,138.02,No,1
+TRX-10089,28-10-25 0:00,Jordan,BR-010,South,Wealth Management,Referral,Corporate,67,66,6154.74,133,59.54,No,2
+TRX-10090,26-10-25 0:00,Drew,BR-010,East,Auto Loan,Email Campaign,Corporate,25,40,13139.99,273.88,6.59,Yes,1
+TRX-10091,06-05-26 0:00,Morgan,BR-002,South,Credit Card,Email Campaign,High Net Worth,67,3,41484.83,174.18,177.04,Yes,3
+TRX-10092,09-01-26 0:00,Jordan,BR-006,North,Wealth Management,Email Campaign,Corporate,72,119,19210.7,378.95,104.83,Yes,5
+TRX-10093,10-01-26 0:00,Sam,BR-006,South,Personal Loan,Social Media,SME,43,117,49068.49,84.48,56.6,No,5
+TRX-10094,19-09-25 0:00,Sam,BR-003,North,Personal Loan,Email Campaign,Corporate,50,99,23579.54,348.81,7.6,Yes,3
+TRX-10095,09-01-26 0:00,Sam,BR-011,North,Credit Card,Walk-in,Corporate,45,97,39700.81,156.9,198.92,Yes,3
+TRX-10096,10-11-25 0:00,Jordan,BR-002,South,Auto Loan,Email Campaign,High Net Worth,48,24,20414.2,270.18,144.6,Yes,2
+TRX-10097,16-01-26 0:00,Morgan,BR-012,East,Wealth Management,Social Media,Retail,54,19,21535.2,178.74,151.2,Yes,4
+TRX-10098,03-02-26 0:00,Sam,BR-001,Central,Mortgage,Email Campaign,Retail,65,18,19452.72,375.25,90.46,Yes,1
+TRX-10099,23-11-25 0:00,Casey,BR-006,Central,Credit Card,Referral,Retail,68,64,36094.24,475.39,8.63,Yes,1
+TRX-10100,24-04-26 0:00,Jamie,BR-012,North,Auto Loan,Referral,SME,67,113,27602.14,462.68,61.92,Yes,5
+TRX-10101,25-07-26 0:00,Jordan,BR-005,North,Mortgage,Social Media,Corporate,45,116,47217.02,312.54,64.02,No,5
+TRX-10102,08-01-26 0:00,Jordan,BR-014,East,Personal Loan,Walk-in,Retail,30,88,12919.07,258.17,167.67,Yes,2
+TRX-10103,27-01-26 0:00,Morgan,BR-014,West,Personal Loan,Walk-in,High Net Worth,34,109,5477.86,418.24,196.27,No,3
+TRX-10104,18-06-26 0:00,Jordan,BR-011,South,Mortgage,Website,Retail,62,35,19966.44,357.5,55.09,Yes,1
+TRX-10105,14-12-25 0:00,Jordan,BR-009,North,Credit Card,Social Media,Retail,66,62,31027.28,132.6,193.55,Yes,2
+TRX-10106,18-11-25 0:00,Sam,BR-001,Central,Personal Loan,Email Campaign,Corporate,50,1,43109.55,419.41,64.31,No,5
+TRX-10107,14-02-26 0:00,Morgan,BR-015,East,Wealth Management,Social Media,Corporate,61,100,17636.75,243,199.65,No,5
+TRX-10108,18-10-25 0:00,Sam,BR-015,South,Mortgage,Website,Corporate,45,25,32862.44,135.04,199.23,Yes,1
+TRX-10109,10-11-25 0:00,Jamie,BR-007,East,Mortgage,Social Media,SME,34,45,17834.83,176.81,38.24,No,5
+TRX-10110,10-09-25 0:00,Drew,BR-015,South,Personal Loan,Social Media,SME,55,49,31052.37,170.39,62.55,No,5
+TRX-10111,21-04-26 0:00,Jamie,BR-005,South,Credit Card,Website,Retail,72,107,44297.99,283.64,97.21,No,4
+TRX-10112,04-12-25 0:00,Drew,BR-005,North,Wealth Management,Walk-in,Corporate,68,98,11952.2,155.47,132.82,Yes,3
+TRX-10113,05-11-25 0:00,Sam,BR-014,East,Credit Card,Email Campaign,Retail,54,89,20509.96,105.6,105.61,Yes,5
+TRX-10114,20-10-25 0:00,Jamie,BR-002,East,Auto Loan,Website,High Net Worth,30,16,49666.63,105.66,290.83,Yes,4
+TRX-10115,11-10-25 0:00,Morgan,BR-011,Central,Auto Loan,Referral,High Net Worth,55,98,43493.57,312.47,217.2,No,2
+TRX-10116,19-06-26 0:00,Alex,BR-003,Central,Personal Loan,Walk-in,Corporate,31,93,28449.67,380.64,42.41,Yes,5
+TRX-10117,09-11-25 0:00,Sam,BR-007,North,Personal Loan,Referral,Corporate,31,19,26073.07,194.69,21.02,No,2
+TRX-10118,03-12-25 0:00,Drew,BR-006,North,Personal Loan,Walk-in,High Net Worth,41,23,14587.72,65.59,206.52,Yes,5
+TRX-10119,11-12-25 0:00,Casey,BR-012,West,Auto Loan,Email Campaign,Corporate,41,83,26101.87,107.25,31.69,Yes,1
+TRX-10120,26-03-26 0:00,Drew,BR-002,Central,Credit Card,Email Campaign,SME,42,25,42484.98,461.61,157.54,Yes,4
+TRX-10121,21-12-25 0:00,Casey,BR-006,South,Credit Card,Social Media,SME,65,16,34416.14,272.09,62.21,No,4
+TRX-10122,21-06-26 0:00,Jordan,BR-002,East,Personal Loan,Referral,Corporate,27,54,14857.18,254.11,65.38,Yes,1
+TRX-10123,05-07-26 0:00,Jamie,BR-002,North,Wealth Management,Walk-in,High Net Worth,37,115,10472.46,67.12,3.24,No,3
+TRX-10124,25-08-25 0:00,Casey,BR-002,East,Credit Card,Email Campaign,Retail,22,73,13627.82,377.89,140.2,Yes,4
+TRX-10125,11-09-25 0:00,Drew,BR-014,East,Auto Loan,Website,Corporate,32,1,8903.08,287.63,22.65,No,2
+TRX-10126,22-05-26 0:00,Jordan,BR-015,West,Mortgage,Email Campaign,Corporate,62,42,5234.21,140.94,154.58,No,4
+TRX-10127,20-01-26 0:00,Alex,BR-011,Central,Mortgage,Website,Retail,38,19,21247.24,99.53,98.37,No,3
+TRX-10128,07-05-26 0:00,Morgan,BR-003,North,Mortgage,Walk-in,Corporate,74,97,6108.33,222.52,156.86,No,2
+TRX-10129,15-09-25 0:00,Morgan,BR-015,East,Wealth Management,Email Campaign,Retail,31,34,9009.67,426.72,116.79,Yes,2
+TRX-10130,11-04-26 0:00,Morgan,BR-002,North,Personal Loan,Email Campaign,High Net Worth,36,80,27592.57,439.38,24.74,Yes,1
+TRX-10131,25-08-25 0:00,Casey,BR-004,South,Auto Loan,Walk-in,SME,69,108,8647.66,321.28,153.13,Yes,5
+TRX-10132,17-09-25 0:00,Alex,BR-009,West,Wealth Management,Email Campaign,High Net Worth,71,104,3662.05,377.39,20.94,Yes,1
+TRX-10133,04-11-25 0:00,Casey,BR-006,South,Auto Loan,Website,SME,38,55,16210.75,101.82,95.74,No,5
+TRX-10134,11-02-26 0:00,Jamie,BR-001,North,Auto Loan,Email Campaign,Retail,55,18,11405.8,314.66,34.47,Yes,1
+TRX-10135,19-08-25 0:00,Casey,BR-008,North,Personal Loan,Referral,SME,73,34,26007.61,350.13,150.47,Yes,5
+TRX-10136,03-09-25 0:00,Alex,BR-015,Central,Mortgage,Social Media,High Net Worth,46,89,5567.17,140.32,273.48,Yes,4
+TRX-10137,30-09-25 0:00,Alex,BR-012,East,Personal Loan,Website,SME,36,45,37712.65,446.07,110.83,Yes,2
+TRX-10138,05-04-26 0:00,Jamie,BR-014,East,Wealth Management,Referral,Retail,26,6,45358.56,137.75,105.43,Yes,5
+TRX-10139,14-10-25 0:00,Alex,BR-007,South,Wealth Management,Walk-in,SME,64,21,37300.04,191.06,152.79,No,4
+TRX-10140,22-07-26 0:00,Drew,BR-010,West,Wealth Management,Website,Corporate,63,70,26874.94,329.25,1.02,Yes,3
+TRX-10141,02-02-26 0:00,Alex,BR-003,East,Personal Loan,Social Media,High Net Worth,67,96,43103.06,337.26,275.33,Yes,1
+TRX-10142,19-05-26 0:00,Morgan,BR-001,Central,Auto Loan,Social Media,Corporate,67,105,34898.46,364.72,39.49,Yes,3
+TRX-10143,11-02-26 0:00,Drew,BR-005,South,Auto Loan,Walk-in,Retail,68,48,1022.28,100.41,196.82,No,4
+TRX-10144,23-12-25 0:00,Drew,BR-013,South,Credit Card,Walk-in,SME,62,107,20007.46,432.26,147.25,Yes,3
+TRX-10145,19-04-26 0:00,Jamie,BR-004,Central,Wealth Management,Website,Corporate,32,39,42622.12,289.78,154.85,No,3
+TRX-10146,20-04-26 0:00,Taylor,BR-010,West,Auto Loan,Email Campaign,Corporate,33,31,17620.01,262.09,131.24,Yes,4
+TRX-10147,23-10-25 0:00,Taylor,BR-008,Central,Credit Card,Walk-in,SME,24,106,2243.15,491.49,94.33,Yes,2
+TRX-10148,23-02-26 0:00,Alex,BR-001,West,Auto Loan,Email Campaign,SME,59,10,37435.89,383.17,114.33,Yes,5
+TRX-10149,06-07-26 0:00,Drew,BR-010,Central,Wealth Management,Referral,High Net Worth,74,30,40200.89,103.1,13.92,Yes,1
+TRX-10150,18-01-26 0:00,Taylor,BR-001,Central,Mortgage,Social Media,Corporate,22,116,8449.39,390.44,124.79,No,5
+TRX-10151,23-05-26 0:00,Taylor,BR-012,North,Wealth Management,Email Campaign,Corporate,46,18,27098.35,92.86,125.22,Yes,1
+TRX-10152,29-09-25 0:00,Alex,BR-004,South,Personal Loan,Social Media,Retail,47,60,10001.79,62.36,178.24,Yes,5
+TRX-10153,20-09-25 0:00,Taylor,BR-008,Central,Auto Loan,Email Campaign,High Net Worth,47,88,36102.1,231.63,151.7,No,3
+TRX-10154,17-06-26 0:00,Casey,BR-005,Central,Auto Loan,Referral,Retail,35,116,13941.75,497.11,15.43,Yes,2
+TRX-10155,21-01-26 0:00,Jordan,BR-002,East,Personal Loan,Walk-in,Corporate,28,73,16152.65,128.7,61.24,Yes,3
+TRX-10156,15-09-25 0:00,Jamie,BR-006,South,Personal Loan,Referral,Retail,27,95,42326.06,352.69,131.13,No,2
+TRX-10157,09-01-26 0:00,Jordan,BR-005,East,Mortgage,Walk-in,Corporate,67,15,24077.96,128.03,47.85,Yes,4
+TRX-10158,16-12-25 0:00,Alex,BR-002,South,Auto Loan,Walk-in,Corporate,66,4,33652.85,376.15,56.11,No,1
+TRX-10159,27-10-25 0:00,Morgan,BR-013,East,Auto Loan,Social Media,Retail,60,63,20417.47,277.41,164.09,Yes,1
+TRX-10160,29-09-25 0:00,Jamie,BR-014,Central,Mortgage,Referral,Retail,32,40,15251.34,355.99,116.86,No,4
+TRX-10161,13-06-26 0:00,Alex,BR-011,Central,Credit Card,Email Campaign,SME,33,9,31461.16,141.29,101.71,Yes,5
+TRX-10162,27-01-26 0:00,Drew,BR-011,North,Mortgage,Referral,SME,63,109,8165.45,385.53,63.69,No,4
+TRX-10163,18-08-25 0:00,Morgan,BR-011,East,Wealth Management,Social Media,SME,37,9,18963.49,498.03,146.19,Yes,4
+TRX-10164,19-11-25 0:00,Jordan,BR-003,West,Auto Loan,Walk-in,Corporate,37,26,10847.33,349.54,57.54,No,2
+TRX-10165,15-03-26 0:00,Alex,BR-015,North,Personal Loan,Social Media,Retail,56,4,34941.85,272.07,147.41,Yes,4
+TRX-10166,03-01-26 0:00,Drew,BR-009,East,Wealth Management,Website,High Net Worth,41,81,47238.34,465.43,21.03,Yes,1
+TRX-10167,11-02-26 0:00,Jamie,BR-007,East,Auto Loan,Website,Corporate,28,16,49777.79,57.13,172.91,Yes,3
+TRX-10168,24-12-25 0:00,Jamie,BR-007,North,Mortgage,Email Campaign,High Net Worth,25,15,22788.7,378.47,149.86,No,2
+TRX-10169,17-11-25 0:00,Sam,BR-015,Central,Wealth Management,Social Media,Retail,46,99,13000.25,449.94,87.7,No,2
+TRX-10170,23-05-26 0:00,Drew,BR-011,East,Auto Loan,Email Campaign,Corporate,36,52,22420.05,77.75,122.2,Yes,5
+TRX-10171,28-07-26 0:00,Casey,BR-006,Central,Credit Card,Email Campaign,High Net Worth,56,69,42439.84,252.53,187.26,Yes,3
+TRX-10172,29-10-25 0:00,Taylor,BR-008,North,Credit Card,Website,High Net Worth,48,119,10697.28,142.12,39.62,No,2
+TRX-10173,18-09-25 0:00,Morgan,BR-004,Central,Personal Loan,Email Campaign,SME,74,5,47628.73,304.93,151.25,Yes,4
+TRX-10174,01-12-25 0:00,Drew,BR-008,South,Auto Loan,Website,SME,49,20,17422.36,342.29,55.19,No,2
+TRX-10175,02-09-25 0:00,Sam,BR-004,West,Credit Card,Walk-in,SME,67,79,49297.28,186.18,180.99,Yes,2
+TRX-10176,13-05-26 0:00,Taylor,BR-008,East,Mortgage,Social Media,Corporate,32,18,42011.14,256.99,163.57,No,2
+TRX-10177,27-10-25 0:00,Taylor,BR-009,West,Auto Loan,Email Campaign,Retail,57,111,40524.24,175.7,69.25,Yes,5
+TRX-10178,17-06-26 0:00,Alex,BR-003,Central,Mortgage,Website,Retail,50,2,16236.28,216.23,161.55,Yes,2
+TRX-10179,12-02-26 0:00,Taylor,BR-003,East,Mortgage,Referral,SME,43,93,934.47,121.79,71.28,No,2
+TRX-10180,26-10-25 0:00,Casey,BR-011,Central,Credit Card,Email Campaign,SME,36,13,19415.58,448.5,20.19,No,5
+TRX-10181,22-08-25 0:00,Jamie,BR-013,South,Auto Loan,Walk-in,SME,34,4,15439.56,54.5,192.38,No,3
+TRX-10182,23-05-26 0:00,Sam,BR-002,North,Wealth Management,Walk-in,High Net Worth,30,42,2351.15,447.08,195.78,Yes,1
+TRX-10183,16-04-26 0:00,Taylor,BR-013,East,Credit Card,Referral,SME,27,109,25515.58,307.26,91.22,Yes,5
+TRX-10184,20-10-25 0:00,Alex,BR-010,South,Credit Card,Website,High Net Worth,65,74,20450.05,199.25,119.32,Yes,5
+TRX-10185,31-07-26 0:00,Casey,BR-003,South,Auto Loan,Email Campaign,Retail,72,61,31910.55,375.38,64.94,No,2
+TRX-10186,16-07-26 0:00,Jordan,BR-003,East,Auto Loan,Website,Corporate,57,95,31248.72,278.49,196.29,Yes,2
+TRX-10187,11-05-26 0:00,Jamie,BR-005,Central,Mortgage,Walk-in,Corporate,49,105,6476.96,274.6,26.95,Yes,1
+TRX-10188,24-06-26 0:00,Jamie,BR-005,South,Auto Loan,Website,Corporate,23,8,48859.79,99.56,62.96,Yes,2
+TRX-10189,24-10-25 0:00,Sam,BR-002,West,Mortgage,Walk-in,Corporate,35,67,9753.11,225.28,97.1,Yes,4
+TRX-10190,07-08-25 0:00,Jamie,BR-012,South,Credit Card,Website,High Net Worth,56,112,22541.06,158.48,143.4,No,2
+TRX-10191,14-11-25 0:00,Taylor,BR-010,Central,Personal Loan,Referral,High Net Worth,67,63,24661.82,57.06,141.4,Yes,2
+TRX-10192,26-06-26 0:00,Alex,BR-013,Central,Wealth Management,Social Media,SME,66,110,40746.61,212.04,35.16,Yes,4
+TRX-10193,23-10-25 0:00,Jamie,BR-006,West,Credit Card,Referral,High Net Worth,72,9,5411.87,90.42,43.48,Yes,1
+TRX-10194,27-01-26 0:00,Jamie,BR-005,South,Auto Loan,Referral,SME,39,94,21717.89,165.57,50.95,Yes,4
+TRX-10195,18-10-25 0:00,Jordan,BR-006,Central,Wealth Management,Social Media,SME,33,117,31610.86,91.63,182.91,Yes,5
+TRX-10196,10-01-26 0:00,Jordan,BR-001,East,Personal Loan,Social Media,Corporate,62,11,11150.2,95.42,22.61,Yes,4
+TRX-10197,18-12-25 0:00,Morgan,BR-005,North,Personal Loan,Email Campaign,High Net Worth,41,99,31559.66,139.56,227.24,No,3
+TRX-10198,30-01-26 0:00,Casey,BR-009,North,Mortgage,Email Campaign,High Net Worth,57,101,46221.41,499.93,227.26,Yes,5
+TRX-10199,10-04-26 0:00,Taylor,BR-012,North,Wealth Management,Referral,SME,47,42,49877.15,50.98,161.95,Yes,2
+TRX-10200,31-10-25 0:00,Jamie,BR-010,South,Mortgage,Referral,SME,72,13,2106.33,337.4,177.32,Yes,5
+TRX-10201,17-06-26 0:00,Drew,BR-014,West,Credit Card,Walk-in,Retail,49,36,12161.62,113.56,52.61,No,1
+TRX-10202,17-04-26 0:00,Jamie,BR-002,Central,Wealth Management,Walk-in,Retail,40,13,15860.2,464.28,44.91,Yes,1
+TRX-10203,14-02-26 0:00,Alex,BR-001,East,Credit Card,Email Campaign,SME,45,12,20256.74,92.13,93.1,No,4
+TRX-10204,23-04-26 0:00,Morgan,BR-014,East,Mortgage,Email Campaign,Retail,26,37,12491.73,479.78,53.02,Yes,5
+TRX-10205,03-10-25 0:00,Casey,BR-010,South,Wealth Management,Walk-in,Retail,56,74,10572.66,324.92,146.86,No,2
+TRX-10206,27-11-25 0:00,Drew,BR-013,North,Mortgage,Walk-in,SME,22,73,47750.42,50.57,127.19,Yes,1
+TRX-10207,26-08-25 0:00,Morgan,BR-011,South,Wealth Management,Website,SME,42,52,45966.82,452.3,175,No,2
+TRX-10208,24-01-26 0:00,Sam,BR-009,West,Mortgage,Website,High Net Worth,52,71,2826.13,284.77,24.83,Yes,3
+TRX-10209,16-10-25 0:00,Casey,BR-010,West,Personal Loan,Walk-in,SME,36,2,17271.24,168.2,183.02,Yes,1
+TRX-10210,14-11-25 0:00,Jamie,BR-009,Central,Mortgage,Website,SME,38,118,20554.85,395.28,58.67,No,4
+TRX-10211,07-12-25 0:00,Jamie,BR-015,Central,Personal Loan,Social Media,Corporate,25,56,12331.22,467,98.14,Yes,3
+TRX-10212,23-07-26 0:00,Casey,BR-009,West,Mortgage,Email Campaign,High Net Worth,74,60,31629.21,267.66,131.58,No,5
+TRX-10213,17-10-25 0:00,Jamie,BR-006,West,Wealth Management,Email Campaign,High Net Worth,56,23,32198.85,192,228.09,Yes,2
+TRX-10214,20-03-26 0:00,Taylor,BR-015,West,Wealth Management,Walk-in,High Net Worth,50,103,42599.96,405.03,126.1,No,1
+TRX-10215,03-03-26 0:00,Casey,BR-008,South,Wealth Management,Referral,Corporate,65,40,37173.03,356.8,188.71,No,3
+TRX-10216,14-05-26 0:00,Morgan,BR-014,West,Auto Loan,Walk-in,SME,39,64,27357.38,449.94,180.51,No,3
+TRX-10217,10-03-26 0:00,Casey,BR-011,East,Credit Card,Website,High Net Worth,43,103,32852.55,361.63,261.64,No,1
+TRX-10218,07-12-25 0:00,Drew,BR-015,North,Wealth Management,Referral,High Net Worth,54,85,14062.44,159.59,21.38,No,5
+TRX-10219,09-06-26 0:00,Jamie,BR-013,West,Personal Loan,Website,Retail,33,23,29856.28,469.25,170.85,No,5
+TRX-10220,03-01-26 0:00,Taylor,BR-001,North,Wealth Management,Social Media,High Net Worth,63,29,24716.75,97.18,234.5,Yes,4
+TRX-10221,12-08-25 0:00,Taylor,BR-010,South,Auto Loan,Website,SME,74,78,7100.55,170.57,20.7,Yes,5
+TRX-10222,11-07-26 0:00,Sam,BR-004,North,Personal Loan,Social Media,SME,49,90,12505.94,284.09,21.48,No,4
+TRX-10223,25-10-25 0:00,Morgan,BR-001,South,Auto Loan,Social Media,Retail,56,51,14938.83,304.58,20.23,No,3
+TRX-10224,04-07-26 0:00,Jordan,BR-008,East,Personal Loan,Website,High Net Worth,42,69,46253.32,56.89,3.4,No,1
+TRX-10225,28-03-26 0:00,Jordan,BR-001,South,Mortgage,Website,High Net Worth,72,119,11904.14,401.26,164.6,No,5
+TRX-10226,11-05-26 0:00,Casey,BR-003,South,Credit Card,Social Media,High Net Worth,72,95,14817.57,212.72,292.02,No,4
+TRX-10227,09-03-26 0:00,Sam,BR-013,Central,Credit Card,Referral,Corporate,67,89,18783.03,232.89,87.74,Yes,3
+TRX-10228,19-01-26 0:00,Alex,BR-004,West,Auto Loan,Social Media,High Net Worth,56,31,33355.27,414.22,162.23,Yes,5
+TRX-10229,20-03-26 0:00,Casey,BR-015,West,Credit Card,Email Campaign,SME,29,50,6352.8,220.68,193.59,Yes,2
+TRX-10230,30-04-26 0:00,Sam,BR-015,East,Auto Loan,Social Media,SME,59,20,47720.29,71.25,51.04,Yes,3
+TRX-10231,13-09-25 0:00,Morgan,BR-015,East,Auto Loan,Referral,Corporate,71,108,43345.78,129.4,171.69,Yes,5
+TRX-10232,21-07-26 0:00,Morgan,BR-008,West,Auto Loan,Email Campaign,Corporate,39,55,29072.2,480.16,109.28,No,3
+TRX-10233,03-12-25 0:00,Morgan,BR-006,Central,Credit Card,Walk-in,High Net Worth,58,81,33864.87,81.68,170.85,No,1
+TRX-10234,26-05-26 0:00,Morgan,BR-014,West,Auto Loan,Walk-in,Retail,26,109,1324.69,209.72,68.63,Yes,1
+TRX-10235,13-04-26 0:00,Morgan,BR-010,Central,Credit Card,Referral,Corporate,72,2,17277.77,276.43,112.32,Yes,1
+TRX-10236,20-01-26 0:00,Sam,BR-012,East,Auto Loan,Social Media,Corporate,67,25,39885.18,271.98,14.63,Yes,2
+TRX-10237,30-12-25 0:00,Sam,BR-007,North,Wealth Management,Website,High Net Worth,35,13,4335.41,51.78,229.4,Yes,1
+TRX-10238,20-03-26 0:00,Taylor,BR-014,East,Auto Loan,Referral,High Net Worth,40,103,14474.53,275.52,85.41,Yes,2
+TRX-10239,04-04-26 0:00,Drew,BR-008,East,Personal Loan,Email Campaign,Corporate,29,92,29472.19,222.7,177.52,Yes,1
+TRX-10240,08-07-26 0:00,Jordan,BR-002,South,Auto Loan,Email Campaign,Retail,52,106,13192.44,487.44,73.57,Yes,3
+TRX-10241,25-09-25 0:00,Jamie,BR-013,South,Mortgage,Walk-in,Corporate,24,119,46731.91,121.62,28.56,Yes,5
+TRX-10242,10-02-26 0:00,Morgan,BR-010,South,Auto Loan,Email Campaign,High Net Worth,70,70,6987.4,209.37,208.77,No,5
+TRX-10243,19-05-26 0:00,Alex,BR-014,South,Personal Loan,Referral,High Net Worth,38,67,39971.02,238.77,49.38,Yes,1
+TRX-10244,15-06-26 0:00,Jamie,BR-011,Central,Personal Loan,Email Campaign,Corporate,25,58,25643.46,225.81,150.74,Yes,5
+TRX-10245,20-12-25 0:00,Sam,BR-008,West,Credit Card,Referral,Retail,40,99,37641.37,349.62,193.62,Yes,1
+TRX-10246,09-06-26 0:00,Alex,BR-003,North,Wealth Management,Website,Corporate,43,82,15880.41,146.98,155.91,Yes,1
+TRX-10247,06-10-25 0:00,Alex,BR-007,East,Auto Loan,Walk-in,Corporate,31,75,25967.24,149.48,4.49,No,4
+TRX-10248,09-03-26 0:00,Alex,BR-003,Central,Credit Card,Email Campaign,High Net Worth,57,118,42913.35,378.14,179.97,No,4
+TRX-10249,29-08-25 0:00,Taylor,BR-015,North,Wealth Management,Referral,Retail,42,84,23610.47,275.13,139.08,Yes,4
+TRX-10250,06-04-26 0:00,Sam,BR-007,Central,Auto Loan,Social Media,SME,24,64,18306.13,236.82,165.09,No,2
+TRX-10251,19-06-26 0:00,Alex,BR-014,Central,Mortgage,Walk-in,Retail,49,69,27039.69,126.14,11.2,Yes,4
+TRX-10252,25-05-26 0:00,Morgan,BR-011,East,Auto Loan,Website,Corporate,64,83,36009.46,134.39,96.02,No,1
+TRX-10253,01-10-25 0:00,Casey,BR-015,West,Personal Loan,Referral,Corporate,54,86,22456.39,54.75,107.07,Yes,3
+TRX-10254,05-11-25 0:00,Alex,BR-012,South,Personal Loan,Website,Corporate,33,59,46974.41,91.14,33.82,Yes,4
+TRX-10255,19-04-26 0:00,Taylor,BR-013,West,Mortgage,Website,Retail,62,60,15099.82,300.58,64.49,No,4
+TRX-10256,30-05-26 0:00,Jamie,BR-002,East,Credit Card,Email Campaign,High Net Worth,29,83,24035.45,451.34,132.06,No,3
+TRX-10257,10-04-26 0:00,Sam,BR-010,East,Wealth Management,Email Campaign,Corporate,62,111,37967.92,179.22,166.64,No,1
+TRX-10258,28-02-26 0:00,Drew,BR-006,East,Auto Loan,Referral,Corporate,51,62,34611.49,197.49,185.88,Yes,2
+TRX-10259,27-06-26 0:00,Taylor,BR-003,North,Personal Loan,Social Media,Retail,27,16,43250.23,102.02,125.68,Yes,4
+TRX-10260,31-03-26 0:00,Alex,BR-003,West,Credit Card,Referral,SME,24,88,49842.05,224.88,78.99,No,3
+TRX-10261,19-01-26 0:00,Sam,BR-015,West,Mortgage,Social Media,SME,39,105,21629.49,66.75,50.81,Yes,1
+TRX-10262,21-12-25 0:00,Casey,BR-009,Central,Personal Loan,Website,High Net Worth,62,68,6001.97,462.92,294.64,Yes,5
+TRX-10263,07-10-25 0:00,Alex,BR-007,Central,Mortgage,Walk-in,High Net Worth,50,15,2005.59,352.9,294.9,Yes,2
+TRX-10264,29-08-25 0:00,Taylor,BR-005,Central,Auto Loan,Referral,Corporate,51,89,36480.41,495.84,185,Yes,3
+TRX-10265,27-08-25 0:00,Jordan,BR-012,East,Wealth Management,Referral,Retail,55,108,43763.68,447.27,157.13,Yes,3
+TRX-10266,04-01-26 0:00,Morgan,BR-010,West,Personal Loan,Social Media,Corporate,41,55,11425.27,262.85,65.16,Yes,3
+TRX-10267,19-08-25 0:00,Drew,BR-007,East,Personal Loan,Website,High Net Worth,51,35,8343.18,283.86,245.1,Yes,4
+TRX-10268,06-01-26 0:00,Jamie,BR-009,North,Auto Loan,Website,Retail,39,55,3579.15,135.76,81.76,No,5
+TRX-10269,19-11-25 0:00,Taylor,BR-001,Central,Credit Card,Social Media,Retail,51,14,41223.79,257.92,65.35,Yes,2
+TRX-10270,08-09-25 0:00,Sam,BR-007,East,Wealth Management,Website,High Net Worth,73,49,15913.41,456.36,223.46,Yes,1
+TRX-10271,08-05-26 0:00,Drew,BR-006,East,Personal Loan,Email Campaign,SME,52,83,20384,72.88,15.93,Yes,1
+TRX-10272,27-11-25 0:00,Drew,BR-010,North,Wealth Management,Walk-in,SME,22,102,25386.13,438.6,9.71,Yes,5
+TRX-10273,19-01-26 0:00,Drew,BR-014,South,Personal Loan,Referral,Retail,72,100,42052.94,203.43,89.59,Yes,3
+TRX-10274,27-03-26 0:00,Alex,BR-012,West,Wealth Management,Walk-in,Corporate,30,7,32716.24,454.78,89.13,No,3
+TRX-10275,16-04-26 0:00,Morgan,BR-009,South,Mortgage,Referral,SME,22,30,30945.7,473.4,179.13,Yes,3
+TRX-10276,30-03-26 0:00,Alex,BR-001,Central,Personal Loan,Email Campaign,Corporate,22,83,9195.77,351.89,25.23,No,3
+TRX-10277,22-09-25 0:00,Sam,BR-013,East,Wealth Management,Website,SME,44,49,25902.9,348.99,24.66,Yes,3
+TRX-10278,28-12-25 0:00,Alex,BR-004,North,Credit Card,Social Media,SME,37,89,35911.36,253.74,29.49,Yes,5
+TRX-10279,08-10-25 0:00,Jordan,BR-009,North,Mortgage,Email Campaign,Corporate,52,16,48676.41,425.99,5.95,No,4
+TRX-10280,19-10-25 0:00,Morgan,BR-004,West,Mortgage,Walk-in,High Net Worth,36,111,10469.61,482.73,21.52,Yes,2
+TRX-10281,02-10-25 0:00,Morgan,BR-010,South,Credit Card,Social Media,SME,36,118,972.4,398.79,131.97,Yes,3
+TRX-10282,03-04-26 0:00,Sam,BR-003,West,Wealth Management,Website,SME,66,104,4227.42,329.87,86.32,Yes,4
+TRX-10283,31-08-25 0:00,Jamie,BR-009,East,Auto Loan,Email Campaign,Corporate,59,51,19104.7,323.06,152.72,Yes,1
+TRX-10284,25-07-26 0:00,Jordan,BR-013,West,Credit Card,Social Media,High Net Worth,73,72,41116.96,432.26,297.78,Yes,5
+TRX-10285,16-03-26 0:00,Taylor,BR-002,North,Wealth Management,Email Campaign,SME,51,82,853.53,293.54,131.81,Yes,4
+TRX-10286,17-03-26 0:00,Alex,BR-015,North,Credit Card,Email Campaign,SME,63,92,23108.16,411.74,10.09,Yes,3
+TRX-10287,14-10-25 0:00,Casey,BR-004,Central,Credit Card,Website,High Net Worth,44,80,16796.92,279,31.36,Yes,3
+TRX-10288,24-07-26 0:00,Alex,BR-015,Central,Personal Loan,Referral,SME,21,116,3097.84,78.1,176.2,No,3
+TRX-10289,27-09-25 0:00,Drew,BR-006,East,Wealth Management,Social Media,High Net Worth,31,83,22786.7,222.78,158.25,No,4
+TRX-10290,26-01-26 0:00,Alex,BR-002,South,Auto Loan,Website,High Net Worth,41,42,13110.06,250,247.46,No,3
+TRX-10291,10-02-26 0:00,Taylor,BR-015,West,Personal Loan,Email Campaign,Corporate,24,17,17918.3,113.73,171.32,Yes,4
+TRX-10292,18-05-26 0:00,Alex,BR-008,East,Credit Card,Website,Retail,27,63,35427.96,96.12,185.53,No,3
+TRX-10293,26-03-26 0:00,Jordan,BR-008,Central,Credit Card,Referral,High Net Worth,46,45,26316.77,290.96,284.96,No,1
+TRX-10294,27-10-25 0:00,Jordan,BR-001,West,Credit Card,Social Media,Corporate,67,77,6670.05,88.31,110.97,No,1
+TRX-10295,01-09-25 0:00,Morgan,BR-012,Central,Wealth Management,Referral,Retail,70,7,48090.02,186.33,68.2,Yes,2
+TRX-10296,09-12-25 0:00,Sam,BR-003,West,Wealth Management,Walk-in,SME,32,27,31977.58,385.07,192.37,Yes,3
+TRX-10297,02-11-25 0:00,Jamie,BR-010,South,Personal Loan,Social Media,Retail,51,10,38410.49,483.99,109.48,No,3
+TRX-10298,10-12-25 0:00,Casey,BR-009,East,Auto Loan,Referral,High Net Worth,37,34,4421.05,373.04,19.27,Yes,4
+TRX-10299,07-03-26 0:00,Drew,BR-005,West,Personal Loan,Email Campaign,High Net Worth,53,36,2829.39,496.68,192.84,Yes,4
+TRX-10300,12-07-26 0:00,Alex,BR-006,North,Mortgage,Social Media,High Net Worth,31,25,1462.68,364.25,176.31,No,3
+TRX-10301,21-08-25 0:00,Alex,BR-004,North,Credit Card,Social Media,High Net Worth,48,6,9845.3,182.21,268.74,No,2
+TRX-10302,09-01-26 0:00,Taylor,BR-010,West,Credit Card,Website,High Net Worth,52,24,21013.22,352.42,195.96,No,3
+TRX-10303,22-11-25 0:00,Sam,BR-002,West,Credit Card,Email Campaign,Corporate,21,18,46823.39,365.97,69.81,No,4
+TRX-10304,18-04-26 0:00,Jordan,BR-011,West,Personal Loan,Walk-in,High Net Worth,67,87,23124.45,217.28,289.88,Yes,3
+TRX-10305,07-08-25 0:00,Casey,BR-008,North,Personal Loan,Referral,Corporate,48,6,14867.63,57.97,160.32,Yes,4
+TRX-10306,16-10-25 0:00,Morgan,BR-011,North,Credit Card,Website,SME,73,29,28315.8,366.44,126.08,Yes,3
+TRX-10307,02-01-26 0:00,Jordan,BR-013,West,Personal Loan,Referral,High Net Worth,62,25,6040.76,59.77,87.88,Yes,5
+TRX-10308,07-04-26 0:00,Drew,BR-006,Central,Wealth Management,Walk-in,High Net Worth,27,55,30670.54,334.03,112.06,Yes,4
+TRX-10309,23-07-26 0:00,Sam,BR-005,Central,Wealth Management,Walk-in,Retail,22,81,28637.38,123.63,133.99,Yes,2
+TRX-10310,27-07-26 0:00,Drew,BR-009,South,Personal Loan,Social Media,SME,62,46,39703.66,304.52,14.4,Yes,5
+TRX-10311,16-12-25 0:00,Jamie,BR-001,East,Credit Card,Walk-in,High Net Worth,44,24,49341.04,276.76,77.01,No,3
+TRX-10312,02-11-25 0:00,Morgan,BR-005,Central,Personal Loan,Referral,High Net Worth,24,75,12918.24,56.08,214.17,No,4
+TRX-10313,09-03-26 0:00,Jamie,BR-006,North,Personal Loan,Email Campaign,SME,64,26,25727.99,213.29,96,No,5
+TRX-10314,20-10-25 0:00,Taylor,BR-005,Central,Personal Loan,Email Campaign,Corporate,39,115,45488.84,320.49,80.48,No,2
+TRX-10315,10-02-26 0:00,Drew,BR-006,South,Mortgage,Social Media,High Net Worth,46,98,39366.9,431.87,45.44,Yes,4
+TRX-10316,04-01-26 0:00,Taylor,BR-006,South,Wealth Management,Referral,Retail,31,28,24626.61,449.89,88.37,No,5
+TRX-10317,30-09-25 0:00,Alex,BR-007,East,Auto Loan,Referral,High Net Worth,60,3,47295.9,267.73,231.21,Yes,5
+TRX-10318,09-05-26 0:00,Jamie,BR-004,Central,Auto Loan,Walk-in,Retail,70,75,3333.22,377.79,52.8,No,5
+TRX-10319,25-09-25 0:00,Sam,BR-014,North,Mortgage,Referral,Retail,63,38,46584.43,192.4,1.08,No,1
+TRX-10320,23-01-26 0:00,Drew,BR-011,North,Personal Loan,Website,High Net Worth,31,61,3000.12,203.98,200.55,No,3
+TRX-10321,09-11-25 0:00,Casey,BR-014,West,Mortgage,Walk-in,High Net Worth,65,78,27591.58,137.51,291.8,Yes,4
+TRX-10322,28-04-26 0:00,Morgan,BR-014,North,Mortgage,Website,Retail,23,51,44576.83,302.88,121.37,Yes,4
+TRX-10323,23-04-26 0:00,Jordan,BR-014,East,Credit Card,Social Media,SME,32,90,13504.69,191.55,23.98,Yes,4
+TRX-10324,29-04-26 0:00,Sam,BR-015,East,Wealth Management,Email Campaign,SME,23,48,23876.3,87.97,64.15,Yes,5
+TRX-10325,24-05-26 0:00,Sam,BR-008,North,Auto Loan,Social Media,High Net Worth,62,21,16554.28,358.25,260.3,Yes,3
+TRX-10326,08-02-26 0:00,Taylor,BR-007,North,Personal Loan,Email Campaign,Corporate,47,54,47631.12,368.49,46.51,Yes,2
+TRX-10327,19-05-26 0:00,Jamie,BR-009,West,Auto Loan,Social Media,SME,69,56,41270.46,212,121.54,Yes,4
+TRX-10328,08-03-26 0:00,Drew,BR-007,North,Auto Loan,Referral,High Net Worth,74,103,35595.57,84.53,120.8,Yes,3
+TRX-10329,28-01-26 0:00,Drew,BR-003,West,Wealth Management,Website,SME,22,94,29587.54,241.83,41.57,No,3
+TRX-10330,12-04-26 0:00,Alex,BR-003,West,Auto Loan,Email Campaign,Corporate,69,59,41119.29,249.05,162.68,Yes,1
+TRX-10331,01-09-25 0:00,Alex,BR-015,North,Auto Loan,Walk-in,High Net Worth,36,72,19917.22,350.9,222.86,No,4
+TRX-10332,17-09-25 0:00,Morgan,BR-008,South,Mortgage,Website,Corporate,22,51,22653.82,191.94,132.32,No,5
+TRX-10333,23-01-26 0:00,Taylor,BR-005,South,Wealth Management,Walk-in,High Net Worth,74,20,36635.09,357.17,70.9,Yes,3
+TRX-10334,05-09-25 0:00,Sam,BR-004,West,Credit Card,Website,Corporate,50,112,18208.86,442.17,19.57,No,3
+TRX-10335,25-03-26 0:00,Drew,BR-008,North,Personal Loan,Website,SME,40,96,3663.1,156.87,115.23,Yes,2
+TRX-10336,04-06-26 0:00,Casey,BR-015,South,Auto Loan,Social Media,SME,58,86,4179.56,490.51,110.74,Yes,1
+TRX-10337,28-04-26 0:00,Taylor,BR-006,North,Personal Loan,Email Campaign,Corporate,48,59,6210.46,223.87,37.68,Yes,3
+TRX-10338,20-09-25 0:00,Morgan,BR-002,North,Credit Card,Email Campaign,Corporate,45,71,43549.23,170.27,11.25,Yes,3
+TRX-10339,09-07-26 0:00,Morgan,BR-004,North,Personal Loan,Website,Corporate,52,9,23875.21,239.68,16.14,Yes,5
+TRX-10340,11-02-26 0:00,Taylor,BR-012,Central,Credit Card,Referral,High Net Worth,30,109,35787.68,92.48,297.83,Yes,5
+TRX-10341,13-09-25 0:00,Morgan,BR-011,North,Mortgage,Referral,SME,62,1,19949.01,106.57,156.72,Yes,2
+TRX-10342,05-10-25 0:00,Taylor,BR-004,Central,Auto Loan,Walk-in,High Net Worth,60,29,13306.19,236.5,276.6,Yes,2
+TRX-10343,03-07-26 0:00,Jordan,BR-015,West,Credit Card,Walk-in,SME,53,63,17686.01,393.1,39.01,Yes,2
+TRX-10344,13-08-25 0:00,Taylor,BR-006,South,Personal Loan,Social Media,Retail,33,72,39812.03,455.14,192.11,Yes,5
+TRX-10345,08-12-25 0:00,Jamie,BR-006,South,Auto Loan,Website,High Net Worth,61,56,31448.2,349.17,42.8,Yes,5
+TRX-10346,19-12-25 0:00,Taylor,BR-001,South,Mortgage,Walk-in,SME,74,118,46913.17,97.35,101.82,Yes,1
+TRX-10347,18-08-25 0:00,Morgan,BR-014,South,Auto Loan,Walk-in,SME,62,68,34145.39,352.41,165.94,Yes,4
+TRX-10348,30-06-26 0:00,Drew,BR-008,South,Credit Card,Website,High Net Worth,67,35,28723.99,335.94,104.94,Yes,4
+TRX-10349,28-12-25 0:00,Jamie,BR-006,South,Mortgage,Social Media,High Net Worth,57,3,30704.7,412.59,127.46,Yes,1
+TRX-10350,01-10-25 0:00,Morgan,BR-003,South,Personal Loan,Walk-in,SME,74,118,47147.39,421.36,25.64,No,4
+TRX-10351,05-12-25 0:00,Alex,BR-014,West,Mortgage,Social Media,High Net Worth,36,109,39515.95,440.69,36.87,Yes,5
+TRX-10352,27-04-26 0:00,Alex,BR-009,North,Mortgage,Email Campaign,Corporate,65,104,1690.04,236.36,123.91,No,4
+TRX-10353,02-05-26 0:00,Drew,BR-002,East,Wealth Management,Social Media,High Net Worth,42,7,26939.91,364.04,202.67,No,5
+TRX-10354,31-05-26 0:00,Drew,BR-015,Central,Mortgage,Referral,High Net Worth,40,27,34572.75,170.71,233.2,Yes,1
+TRX-10355,14-09-25 0:00,Jamie,BR-011,East,Mortgage,Referral,High Net Worth,70,1,37560.57,499.7,167.01,Yes,2
+TRX-10356,23-02-26 0:00,Jordan,BR-008,East,Auto Loan,Social Media,SME,63,91,11050.53,128.9,129.15,No,1
+TRX-10357,18-11-25 0:00,Drew,BR-010,North,Personal Loan,Referral,Corporate,47,80,43425.28,54.55,2.7,No,4
+TRX-10358,08-10-25 0:00,Alex,BR-003,North,Auto Loan,Email Campaign,Retail,61,102,47814.24,116.96,32.43,Yes,5
+TRX-10359,20-11-25 0:00,Taylor,BR-013,North,Auto Loan,Website,Retail,36,71,12217.41,399.14,196.98,No,4
+TRX-10360,03-09-25 0:00,Morgan,BR-012,South,Credit Card,Referral,Corporate,54,44,44189.47,251.05,15.2,No,4
+TRX-10361,03-05-26 0:00,Alex,BR-005,West,Auto Loan,Referral,Corporate,52,87,5300.45,251.38,135.76,Yes,2
+TRX-10362,28-03-26 0:00,Alex,BR-006,South,Wealth Management,Social Media,Corporate,46,41,3257.49,479.76,35.22,No,4
+TRX-10363,28-05-26 0:00,Jordan,BR-010,West,Wealth Management,Email Campaign,SME,45,75,6896.58,463.84,143.34,Yes,2
+TRX-10364,15-02-26 0:00,Jamie,BR-006,West,Credit Card,Website,Retail,22,42,3358.18,190.04,141.2,Yes,5
+TRX-10365,02-03-26 0:00,Jamie,BR-004,East,Personal Loan,Social Media,Corporate,32,117,42328.11,144.08,46.84,No,5
+TRX-10366,19-05-26 0:00,Sam,BR-003,East,Personal Loan,Social Media,SME,60,33,3422.98,431.82,53.93,No,2
+TRX-10367,15-09-25 0:00,Jordan,BR-004,West,Auto Loan,Email Campaign,Retail,29,50,13947.38,457.71,130.95,Yes,1
+TRX-10368,24-10-25 0:00,Taylor,BR-001,West,Auto Loan,Website,High Net Worth,32,63,5635.94,293.72,117.03,Yes,5
+TRX-10369,12-06-26 0:00,Jamie,BR-004,South,Auto Loan,Email Campaign,SME,46,100,15123.39,333.24,38.91,Yes,1
+TRX-10370,02-02-26 0:00,Morgan,BR-001,South,Personal Loan,Website,Retail,29,37,4982.69,165.61,146.34,No,5
+TRX-10371,08-02-26 0:00,Drew,BR-012,East,Mortgage,Email Campaign,SME,30,105,33566.16,410.36,30.83,No,5
+TRX-10372,21-11-25 0:00,Jordan,BR-015,North,Wealth Management,Social Media,Retail,52,59,7099.68,334.46,171.13,No,3
+TRX-10373,09-04-26 0:00,Drew,BR-001,West,Mortgage,Social Media,Retail,54,81,42666.37,276.58,102.93,No,4
+TRX-10374,25-10-25 0:00,Alex,BR-010,South,Mortgage,Walk-in,High Net Worth,68,99,40950.96,77.05,31.71,Yes,4
+TRX-10375,29-03-26 0:00,Morgan,BR-014,East,Personal Loan,Referral,SME,40,48,1176.25,462.17,138.81,Yes,1
+TRX-10376,12-01-26 0:00,Morgan,BR-006,South,Mortgage,Email Campaign,Corporate,59,5,44838.45,326.95,103.83,Yes,4
+TRX-10377,03-01-26 0:00,Alex,BR-005,West,Credit Card,Walk-in,High Net Worth,22,48,1932.74,136.71,89.42,No,1
+TRX-10378,05-03-26 0:00,Jordan,BR-014,West,Auto Loan,Referral,High Net Worth,21,96,12362.47,322.87,126.77,Yes,5
+TRX-10379,03-07-26 0:00,Alex,BR-011,Central,Credit Card,Email Campaign,Retail,71,3,2103.26,354.86,59.67,Yes,3
+TRX-10380,01-03-26 0:00,Drew,BR-015,North,Wealth Management,Website,Corporate,56,116,17124.25,286.6,52.61,Yes,3
+TRX-10381,24-02-26 0:00,Sam,BR-004,Central,Auto Loan,Referral,SME,44,47,25936.39,373.15,32.72,Yes,5
+TRX-10382,29-09-25 0:00,Morgan,BR-013,East,Mortgage,Social Media,Corporate,74,62,39933.92,311.65,72.55,Yes,2
+TRX-10383,11-02-26 0:00,Casey,BR-011,South,Wealth Management,Walk-in,Corporate,47,99,17230.09,476.5,50.2,Yes,2
+TRX-10384,27-06-26 0:00,Casey,BR-003,East,Auto Loan,Referral,Corporate,22,116,35421.76,74.16,136.69,Yes,4
+TRX-10385,01-01-26 0:00,Drew,BR-001,West,Mortgage,Referral,Corporate,51,14,9781.47,97.81,136.78,Yes,1
+TRX-10386,10-08-25 0:00,Taylor,BR-006,Central,Credit Card,Social Media,Corporate,34,63,37654.62,128.15,100.37,Yes,3
+TRX-10387,25-05-26 0:00,Jamie,BR-002,Central,Auto Loan,Email Campaign,Retail,22,112,12181.83,360.58,155.59,Yes,4
+TRX-10388,07-01-26 0:00,Alex,BR-008,Central,Mortgage,Website,Retail,49,61,7605.47,340.52,168.27,Yes,5
+TRX-10389,26-04-26 0:00,Alex,BR-010,East,Credit Card,Social Media,High Net Worth,35,31,9677.74,451.43,173.92,No,3
+TRX-10390,14-05-26 0:00,Taylor,BR-005,West,Wealth Management,Website,Retail,32,95,9512.12,379.79,123.79,Yes,1
+TRX-10391,28-11-25 0:00,Taylor,BR-007,South,Wealth Management,Email Campaign,High Net Worth,57,17,25886.71,278.76,84.87,No,1
+TRX-10392,01-08-25 0:00,Drew,BR-010,South,Wealth Management,Referral,High Net Worth,48,24,42317.48,496.32,268.46,No,2
+TRX-10393,02-05-26 0:00,Drew,BR-012,East,Wealth Management,Website,SME,40,116,4440.45,169.75,4.84,Yes,4
+TRX-10394,28-07-26 0:00,Taylor,BR-002,Central,Personal Loan,Walk-in,Corporate,59,23,35494.34,424.94,69.72,Yes,5
+TRX-10395,28-10-25 0:00,Morgan,BR-013,North,Auto Loan,Walk-in,Retail,44,82,32890.15,242.06,144.36,No,3
+TRX-10396,30-03-26 0:00,Drew,BR-008,East,Auto Loan,Social Media,SME,41,50,43689.74,341.93,16.02,No,1
+TRX-10397,16-07-26 0:00,Sam,BR-002,East,Personal Loan,Email Campaign,Retail,30,118,12585.3,377.27,36.63,No,3
+TRX-10398,13-09-25 0:00,Drew,BR-004,West,Mortgage,Social Media,High Net Worth,66,78,22780.44,335.19,176.79,No,5
+TRX-10399,11-03-26 0:00,Alex,BR-001,South,Mortgage,Social Media,Retail,34,114,46328.46,113.23,112,Yes,3
+TRX-10400,21-05-26 0:00,Drew,BR-015,East,Wealth Management,Social Media,Corporate,57,79,33169.68,249.33,147.79,Yes,4
+TRX-10401,16-01-26 0:00,Morgan,BR-005,East,Credit Card,Walk-in,High Net Worth,38,79,19744.04,302.65,243.78,Yes,2
+TRX-10402,19-09-25 0:00,Taylor,BR-009,Central,Mortgage,Walk-in,High Net Worth,44,70,7004.91,432.07,38.58,Yes,3
+TRX-10403,18-07-26 0:00,Alex,BR-001,Central,Credit Card,Social Media,SME,34,27,13493.01,249.64,3.68,Yes,2
+TRX-10404,18-04-26 0:00,Drew,BR-009,North,Auto Loan,Walk-in,Corporate,54,15,29270.17,463.44,137.93,No,5
+TRX-10405,26-03-26 0:00,Morgan,BR-011,West,Credit Card,Email Campaign,High Net Worth,32,50,36049.31,248.17,90.42,Yes,2
+TRX-10406,03-02-26 0:00,Sam,BR-015,North,Auto Loan,Social Media,Corporate,42,36,6658.88,296.95,125.2,Yes,3
+TRX-10407,19-05-26 0:00,Drew,BR-008,Central,Personal Loan,Walk-in,Retail,26,119,30180.06,408.33,30.11,No,3
+TRX-10408,23-06-26 0:00,Morgan,BR-006,South,Personal Loan,Website,Corporate,56,8,27742.39,312.38,93.81,No,1
+TRX-10409,11-03-26 0:00,Sam,BR-007,Central,Wealth Management,Social Media,High Net Worth,65,79,25940.79,482.1,151.32,Yes,3
+TRX-10410,25-01-26 0:00,Taylor,BR-003,West,Mortgage,Social Media,SME,56,3,34661.09,347.15,117.02,No,2
+TRX-10411,23-05-26 0:00,Drew,BR-014,Central,Wealth Management,Email Campaign,High Net Worth,42,62,41953.75,285.22,153.94,No,1
+TRX-10412,22-12-25 0:00,Sam,BR-015,West,Auto Loan,Referral,Corporate,34,47,16487.99,60.62,99.14,Yes,3
+TRX-10413,04-04-26 0:00,Alex,BR-001,West,Wealth Management,Referral,Corporate,36,77,44506.1,236.18,66.55,Yes,3
+TRX-10414,10-05-26 0:00,Taylor,BR-005,West,Credit Card,Email Campaign,High Net Worth,56,105,8451.36,184.66,21.36,Yes,5
+TRX-10415,05-09-25 0:00,Alex,BR-014,West,Auto Loan,Email Campaign,Corporate,45,98,9064.68,386.65,17.9,Yes,1
+TRX-10416,07-09-25 0:00,Casey,BR-012,West,Personal Loan,Email Campaign,Retail,52,88,13705.22,143.72,86.76,Yes,5
+TRX-10417,28-10-25 0:00,Jordan,BR-012,South,Mortgage,Referral,High Net Worth,53,104,6416.78,142.35,106.74,No,5
+TRX-10418,25-08-25 0:00,Drew,BR-002,North,Auto Loan,Email Campaign,SME,65,96,11900.8,135.28,103.23,No,5
+TRX-10419,27-10-25 0:00,Sam,BR-014,East,Auto Loan,Walk-in,High Net Worth,56,61,5767.38,106.53,91.46,No,4
+TRX-10420,08-12-25 0:00,Jordan,BR-005,North,Credit Card,Social Media,Retail,40,32,41176.74,189.95,137.58,No,5
+TRX-10421,25-10-25 0:00,Jordan,BR-008,West,Mortgage,Social Media,Retail,38,94,7378.97,448.66,172.79,No,2
+TRX-10422,15-07-26 0:00,Sam,BR-011,South,Personal Loan,Website,Retail,58,116,37491.23,398.72,59.77,Yes,3
+TRX-10423,12-02-26 0:00,Taylor,BR-009,Central,Auto Loan,Website,Retail,23,113,2871.74,380.86,38.6,Yes,4
+TRX-10424,27-11-25 0:00,Drew,BR-002,South,Auto Loan,Social Media,Retail,43,13,47451.76,408.8,23.24,No,5
+TRX-10425,07-08-25 0:00,Casey,BR-012,West,Credit Card,Walk-in,SME,52,1,35702.42,171.24,123.25,Yes,3
+TRX-10426,09-05-26 0:00,Alex,BR-003,South,Wealth Management,Referral,Corporate,65,34,836.43,449.35,88.77,Yes,1
+TRX-10427,21-04-26 0:00,Morgan,BR-003,South,Personal Loan,Referral,Retail,36,62,38310.9,111.79,37.6,Yes,1
+TRX-10428,03-02-26 0:00,Alex,BR-001,West,Mortgage,Walk-in,Retail,25,79,25947.06,201.36,130.63,No,3
+TRX-10429,28-02-26 0:00,Morgan,BR-008,South,Auto Loan,Referral,High Net Worth,24,108,39078.58,314.04,44.55,Yes,2
+TRX-10430,04-04-26 0:00,Alex,BR-006,East,Auto Loan,Email Campaign,SME,41,78,26363.59,96.31,110.86,No,3
+TRX-10431,15-08-25 0:00,Sam,BR-012,East,Personal Loan,Social Media,SME,60,93,32230.73,378.56,105.43,Yes,3
+TRX-10432,28-03-26 0:00,Casey,BR-013,South,Wealth Management,Social Media,Corporate,71,98,39423.42,224.26,146.85,No,4
+TRX-10433,16-04-26 0:00,Drew,BR-008,Central,Auto Loan,Walk-in,SME,34,82,20552.85,402.98,11.02,Yes,1
+TRX-10434,30-01-26 0:00,Morgan,BR-011,West,Personal Loan,Referral,High Net Worth,59,118,634.05,271.8,266.36,No,1
+TRX-10435,21-07-26 0:00,Drew,BR-009,East,Credit Card,Website,High Net Worth,51,71,42572.35,131.39,210.9,Yes,5
+TRX-10436,17-12-25 0:00,Drew,BR-005,Central,Wealth Management,Website,Corporate,34,93,19354.07,380.64,43.23,No,3
+TRX-10437,10-03-26 0:00,Drew,BR-014,South,Mortgage,Referral,High Net Worth,26,119,25054.11,163.46,55.02,Yes,3
+TRX-10438,02-05-26 0:00,Jamie,BR-012,Central,Auto Loan,Website,Retail,32,31,884.45,270.86,86.33,Yes,2
+TRX-10439,03-02-26 0:00,Taylor,BR-014,North,Personal Loan,Walk-in,Retail,36,64,24858.55,83.99,163.51,Yes,1
+TRX-10440,14-10-25 0:00,Alex,BR-003,East,Credit Card,Walk-in,High Net Worth,37,25,49331.13,328.04,252.88,Yes,2
+TRX-10441,28-07-26 0:00,Drew,BR-005,South,Mortgage,Referral,Corporate,65,38,14274.25,349.64,104.09,Yes,4
+TRX-10442,26-02-26 0:00,Alex,BR-005,West,Personal Loan,Website,SME,43,14,20073.2,220.4,172.16,Yes,5
+TRX-10443,14-10-25 0:00,Drew,BR-005,South,Personal Loan,Walk-in,Corporate,34,8,34515.9,479.49,1.09,No,2
+TRX-10444,25-12-25 0:00,Morgan,BR-003,West,Mortgage,Walk-in,SME,27,91,40832.29,443.38,7.03,No,1
+TRX-10445,14-04-26 0:00,Taylor,BR-011,South,Credit Card,Email Campaign,High Net Worth,66,54,21160.89,368.57,273.54,Yes,4
+TRX-10446,29-07-26 0:00,Taylor,BR-014,Central,Credit Card,Email Campaign,High Net Worth,52,2,15828.61,371.14,232.6,No,3
+TRX-10447,22-07-26 0:00,Sam,BR-010,Central,Wealth Management,Walk-in,Retail,35,81,46922.38,163.58,90.14,Yes,4
+TRX-10448,05-07-26 0:00,Jamie,BR-014,Central,Auto Loan,Referral,SME,64,101,34018.68,345.57,150.72,Yes,2
+TRX-10449,22-11-25 0:00,Sam,BR-004,North,Mortgage,Social Media,Corporate,37,78,6391.55,139.19,191.13,Yes,1
+TRX-10450,02-01-26 0:00,Sam,BR-009,West,Mortgage,Social Media,High Net Worth,61,89,3911.93,114.8,231.63,Yes,2
+TRX-10451,13-07-26 0:00,Sam,BR-013,Central,Mortgage,Walk-in,Corporate,74,56,24435.72,499.76,168.47,Yes,3
+TRX-10452,22-11-25 0:00,Sam,BR-010,North,Credit Card,Walk-in,Retail,67,94,11394.46,330.07,152.12,No,3
+TRX-10453,30-03-26 0:00,Sam,BR-009,West,Auto Loan,Walk-in,SME,64,93,13072.25,243.94,33.64,Yes,1
+TRX-10454,12-12-25 0:00,Casey,BR-002,South,Wealth Management,Referral,SME,54,84,43945.76,179.67,166.71,Yes,5
+TRX-10455,27-05-26 0:00,Taylor,BR-008,North,Personal Loan,Email Campaign,High Net Worth,25,85,4933.52,321.76,58.53,Yes,4
+TRX-10456,27-10-25 0:00,Sam,BR-008,East,Personal Loan,Walk-in,SME,65,61,35910.52,72.32,178.52,No,4
+TRX-10457,03-10-25 0:00,Drew,BR-007,North,Mortgage,Walk-in,High Net Worth,47,117,13921.54,92.61,137.6,Yes,3
+TRX-10458,27-02-26 0:00,Taylor,BR-008,North,Auto Loan,Website,Retail,72,22,38136.25,64.79,135.4,No,2
+TRX-10459,05-03-26 0:00,Taylor,BR-014,West,Credit Card,Referral,SME,43,35,36259.36,274.63,99.45,No,2
+TRX-10460,18-09-25 0:00,Jordan,BR-003,South,Auto Loan,Walk-in,High Net Worth,60,101,865.9,320.27,28.2,No,5
+TRX-10461,07-06-26 0:00,Casey,BR-013,East,Auto Loan,Website,Corporate,34,16,25702.2,78.12,58.14,No,2
+TRX-10462,04-02-26 0:00,Sam,BR-006,Central,Credit Card,Social Media,High Net Worth,35,50,7396.31,374.55,295.12,Yes,4
+TRX-10463,13-10-25 0:00,Alex,BR-001,Central,Mortgage,Walk-in,SME,63,113,43378.24,153.68,192.14,No,2
+TRX-10464,06-08-25 0:00,Morgan,BR-007,North,Auto Loan,Walk-in,Retail,53,43,43643.5,358.34,64.1,Yes,5
+TRX-10465,23-05-26 0:00,Jamie,BR-015,West,Personal Loan,Website,SME,73,17,21208.12,491.85,199.26,No,4
+TRX-10466,03-07-26 0:00,Drew,BR-015,West,Credit Card,Referral,SME,51,80,22497.58,361,169.11,No,2
+TRX-10467,22-07-26 0:00,Alex,BR-001,Central,Wealth Management,Walk-in,High Net Worth,55,58,15512.51,447.44,183.28,No,4
+TRX-10468,27-08-25 0:00,Casey,BR-009,East,Mortgage,Social Media,Corporate,37,119,35972.01,476.69,8.02,Yes,3
+TRX-10469,01-10-25 0:00,Morgan,BR-001,South,Credit Card,Walk-in,SME,48,2,18253.74,269.04,180.29,Yes,3
+TRX-10470,21-06-26 0:00,Casey,BR-001,East,Wealth Management,Social Media,Corporate,39,4,13755.73,366.05,111.49,No,3
+TRX-10471,14-12-25 0:00,Drew,BR-015,South,Wealth Management,Email Campaign,High Net Worth,66,85,21895.44,433.39,260.55,Yes,2
+TRX-10472,20-08-25 0:00,Taylor,BR-007,Central,Auto Loan,Email Campaign,Corporate,74,39,5028.63,210.47,166.89,Yes,5
+TRX-10473,14-12-25 0:00,Morgan,BR-002,South,Auto Loan,Social Media,High Net Worth,43,98,37456.86,167.63,249.9,Yes,4
+TRX-10474,30-01-26 0:00,Taylor,BR-014,West,Auto Loan,Referral,Retail,52,94,1123.52,475.97,139.63,No,1
+TRX-10475,21-05-26 0:00,Drew,BR-005,North,Credit Card,Walk-in,Corporate,60,6,32402.01,376.84,58.28,Yes,3
+TRX-10476,18-12-25 0:00,Alex,BR-008,North,Credit Card,Walk-in,Corporate,33,81,9551.79,148.86,67.23,Yes,3
+TRX-10477,23-09-25 0:00,Drew,BR-008,Central,Mortgage,Email Campaign,Retail,40,103,12004,252.09,61.69,Yes,1
+TRX-10478,19-06-26 0:00,Alex,BR-003,West,Auto Loan,Social Media,Corporate,55,89,31963.78,408.4,4.01,Yes,1
+TRX-10479,11-05-26 0:00,Morgan,BR-007,East,Wealth Management,Walk-in,Retail,25,69,49650.7,296.18,116.51,No,2
+TRX-10480,10-09-25 0:00,Morgan,BR-003,West,Personal Loan,Walk-in,SME,29,69,38997.02,342.48,139.77,No,4
+TRX-10481,02-09-25 0:00,Sam,BR-006,North,Mortgage,Referral,High Net Worth,49,20,11679.06,389.2,256.16,No,3
+TRX-10482,02-12-25 0:00,Casey,BR-006,North,Credit Card,Website,Retail,26,64,9213.23,329.9,28.03,Yes,5
+TRX-10483,07-10-25 0:00,Sam,BR-003,West,Mortgage,Email Campaign,Corporate,45,16,43378.53,293.04,108.84,No,2
+TRX-10484,06-04-26 0:00,Casey,BR-007,West,Mortgage,Email Campaign,Retail,51,51,22487.11,387.33,1.6,Yes,2
+TRX-10485,06-07-26 0:00,Sam,BR-003,North,Mortgage,Website,Corporate,42,105,7284.11,377.4,19.02,Yes,5
+TRX-10486,10-06-26 0:00,Taylor,BR-008,East,Mortgage,Walk-in,SME,22,37,43179.47,333.44,10.84,Yes,5
+TRX-10487,03-08-25 0:00,Morgan,BR-010,Central,Personal Loan,Referral,Retail,65,104,40896.57,211.91,145.1,Yes,5
+TRX-10488,12-06-26 0:00,Alex,BR-004,Central,Auto Loan,Referral,SME,25,73,49203.37,232.62,16.21,Yes,1
+TRX-10489,24-04-26 0:00,Casey,BR-015,West,Wealth Management,Email Campaign,High Net Worth,47,69,45532.31,486.7,214.94,Yes,3
+TRX-10490,29-03-26 0:00,Drew,BR-015,Central,Mortgage,Referral,Corporate,45,42,42663.62,100.57,49.92,Yes,1
+TRX-10491,27-07-26 0:00,Casey,BR-013,North,Mortgage,Website,Corporate,28,57,3102.43,170.83,175.54,Yes,3
+TRX-10492,02-07-26 0:00,Alex,BR-001,North,Mortgage,Walk-in,SME,21,66,5668.56,271.58,162.63,No,1
+TRX-10493,07-07-26 0:00,Sam,BR-004,West,Auto Loan,Website,High Net Worth,40,9,28664.67,426.53,287.36,Yes,4
+TRX-10494,17-01-26 0:00,Casey,BR-014,West,Credit Card,Social Media,Retail,64,107,26808.22,123.65,176.75,No,3
+TRX-10495,21-10-25 0:00,Jamie,BR-007,West,Credit Card,Email Campaign,Retail,43,100,23169.18,174.63,186.67,Yes,2
+TRX-10496,02-10-25 0:00,Taylor,BR-011,East,Personal Loan,Referral,Corporate,52,86,20141.07,79.61,171.75,No,3
+TRX-10497,23-10-25 0:00,Morgan,BR-004,Central,Credit Card,Social Media,SME,31,64,21844.92,367.69,138.68,No,3
+TRX-10498,20-01-26 0:00,Alex,BR-013,West,Mortgage,Referral,SME,59,86,28680.25,157.19,34.05,No,3
+TRX-10499,31-07-26 0:00,Morgan,BR-006,South,Mortgage,Walk-in,Retail,67,22,602.79,224.9,54.34,No,4
+TRX-10500,20-05-26 0:00,Jamie,BR-009,South,Mortgage,Walk-in,High Net Worth,74,34,13405.08,249.67,63.82,Yes,1
+TRX-10501,11-09-25 0:00,Casey,BR-001,North,Personal Loan,Walk-in,High Net Worth,44,55,26154.85,451.09,181.08,Yes,2
+TRX-10502,30-10-25 0:00,Casey,BR-013,Central,Mortgage,Referral,Retail,31,29,36249.7,235.1,100.72,Yes,1
+TRX-10503,10-09-25 0:00,Drew,BR-005,West,Credit Card,Social Media,Retail,49,38,9120.76,115.35,173.42,Yes,1
+TRX-10504,25-09-25 0:00,Jamie,BR-011,South,Auto Loan,Walk-in,SME,74,110,27570.62,285.94,190.53,Yes,5
+TRX-10505,12-07-26 0:00,Alex,BR-007,Central,Auto Loan,Social Media,High Net Worth,46,97,35865.75,483.33,121.46,No,4
+TRX-10506,03-03-26 0:00,Drew,BR-001,North,Wealth Management,Referral,Retail,36,18,22509.07,323.46,101.27,Yes,5
+TRX-10507,01-08-26 0:00,Taylor,BR-014,East,Credit Card,Social Media,Retail,55,71,1840.52,492.52,194.3,Yes,4
+TRX-10508,09-10-25 0:00,Drew,BR-004,Central,Mortgage,Referral,Corporate,40,65,22738.77,428.5,55.25,No,1
+TRX-10509,02-01-26 0:00,Jordan,BR-006,Central,Auto Loan,Referral,Retail,66,97,15174.02,66.18,158.48,No,1
+TRX-10510,09-12-25 0:00,Alex,BR-002,East,Credit Card,Email Campaign,Retail,23,1,46517.66,346.28,45.05,No,4
+TRX-10511,27-04-26 0:00,Jordan,BR-010,Central,Auto Loan,Referral,High Net Worth,21,88,6668.36,179.05,204.44,No,1
+TRX-10512,24-01-26 0:00,Jamie,BR-005,North,Mortgage,Referral,SME,73,4,32797.56,301.83,50.72,Yes,1
+TRX-10513,11-06-26 0:00,Sam,BR-011,North,Auto Loan,Website,High Net Worth,67,4,3109.63,175.71,265.12,Yes,2
+TRX-10514,09-07-26 0:00,Jordan,BR-010,East,Wealth Management,Walk-in,SME,21,82,22585.44,206.99,112.3,No,5
+TRX-10515,31-01-26 0:00,Taylor,BR-001,West,Wealth Management,Email Campaign,Corporate,37,27,27921.98,465.43,37.19,No,5
+TRX-10516,16-12-25 0:00,Drew,BR-006,South,Auto Loan,Email Campaign,Retail,22,43,15248.77,142.99,44.87,No,5
+TRX-10517,09-02-26 0:00,Sam,BR-006,West,Credit Card,Email Campaign,Corporate,49,59,23026.24,443.35,98.77,Yes,3
+TRX-10518,18-04-26 0:00,Drew,BR-013,Central,Credit Card,Website,SME,40,32,8595.91,63.71,192.32,No,2
+TRX-10519,07-12-25 0:00,Jordan,BR-015,South,Credit Card,Referral,High Net Worth,26,33,15554.13,90.89,230.9,Yes,5
+TRX-10520,01-06-26 0:00,Drew,BR-015,East,Auto Loan,Walk-in,High Net Worth,28,28,31244.76,434.6,146.49,Yes,5
+TRX-10521,28-02-26 0:00,Jamie,BR-004,East,Credit Card,Social Media,Corporate,49,106,15439.1,333.75,67.54,Yes,2
+TRX-10522,11-03-26 0:00,Sam,BR-013,South,Mortgage,Referral,SME,68,105,45037.28,386.26,109.85,Yes,1
+TRX-10523,08-07-26 0:00,Jamie,BR-008,North,Wealth Management,Website,Corporate,71,55,31606.14,144.24,149.67,Yes,5
+TRX-10524,25-02-26 0:00,Jordan,BR-004,South,Mortgage,Referral,Corporate,53,100,22213.13,291.69,156.79,Yes,1
+TRX-10525,16-03-26 0:00,Jamie,BR-008,Central,Credit Card,Referral,Retail,23,60,2418.47,381.75,64.92,Yes,5
+TRX-10526,12-09-25 0:00,Taylor,BR-015,North,Mortgage,Website,Corporate,55,70,25227.64,332.29,144.23,Yes,4
+TRX-10527,11-05-26 0:00,Jordan,BR-013,East,Credit Card,Email Campaign,Retail,25,62,38356.42,262.26,131.56,No,3
+TRX-10528,22-04-26 0:00,Jordan,BR-008,South,Auto Loan,Email Campaign,Retail,47,80,13645.1,481.9,191.82,No,5
+TRX-10529,18-12-25 0:00,Jordan,BR-005,West,Mortgage,Walk-in,High Net Worth,64,34,40435.29,354.27,279.33,Yes,4
+TRX-10530,28-02-26 0:00,Alex,BR-013,West,Auto Loan,Walk-in,Retail,32,87,12964.43,458.49,157.88,Yes,2
+TRX-10531,27-07-26 0:00,Drew,BR-015,Central,Auto Loan,Email Campaign,Retail,40,114,41275.45,378.4,144.68,No,4
+TRX-10532,13-05-26 0:00,Alex,BR-004,West,Personal Loan,Social Media,High Net Worth,65,106,4720.78,380.96,82.22,Yes,2
+TRX-10533,16-02-26 0:00,Alex,BR-012,South,Credit Card,Referral,Corporate,40,88,43376.09,86.01,169.19,Yes,5
+TRX-10534,16-12-25 0:00,Taylor,BR-013,South,Wealth Management,Social Media,SME,29,56,25209.73,211.76,85.5,Yes,2
+TRX-10535,06-07-26 0:00,Sam,BR-002,West,Credit Card,Referral,SME,59,113,15178.61,436.27,54.45,No,4
+TRX-10536,26-03-26 0:00,Drew,BR-011,South,Wealth Management,Email Campaign,SME,24,13,13623.11,154.67,76.83,Yes,3
+TRX-10537,10-02-26 0:00,Jamie,BR-015,Central,Credit Card,Walk-in,Corporate,71,56,21884.52,101.98,167.19,Yes,1
+TRX-10538,09-03-26 0:00,Casey,BR-003,North,Auto Loan,Walk-in,Retail,74,18,49952.95,196.75,29.73,Yes,1
+TRX-10539,05-09-25 0:00,Jordan,BR-003,Central,Mortgage,Social Media,SME,39,54,11406.21,149.2,91.23,Yes,3
+TRX-10540,28-12-25 0:00,Jamie,BR-004,Central,Mortgage,Walk-in,Corporate,58,77,5609.22,466.38,98.47,Yes,1
+TRX-10541,29-09-25 0:00,Jordan,BR-004,South,Personal Loan,Email Campaign,Retail,47,113,29459.24,440.58,7.33,Yes,5
+TRX-10542,05-09-25 0:00,Taylor,BR-010,North,Wealth Management,Social Media,High Net Worth,65,101,24682.85,274.86,58.72,Yes,5
+TRX-10543,12-11-25 0:00,Jordan,BR-011,South,Wealth Management,Referral,SME,63,43,26447.72,77.6,165.35,No,4
+TRX-10544,10-06-26 0:00,Alex,BR-011,East,Wealth Management,Walk-in,Retail,33,39,33513.3,371.55,166.15,No,4
+TRX-10545,21-09-25 0:00,Drew,BR-005,South,Auto Loan,Website,SME,33,61,13723.63,330.54,58.48,No,2
+TRX-10546,02-11-25 0:00,Casey,BR-004,South,Wealth Management,Walk-in,SME,42,42,45577.92,486.75,174.98,No,4
+TRX-10547,14-03-26 0:00,Morgan,BR-011,South,Mortgage,Referral,SME,48,81,22065.77,301.53,154.36,Yes,5
+TRX-10548,25-12-25 0:00,Jordan,BR-014,North,Auto Loan,Social Media,Retail,72,79,6889.77,201.38,83.58,No,4
+TRX-10549,30-07-26 0:00,Jamie,BR-010,South,Credit Card,Referral,Corporate,67,18,37243.79,283.56,149.68,Yes,1
+TRX-10550,30-10-25 0:00,Alex,BR-008,North,Wealth Management,Website,Retail,73,23,32333.67,490.67,192.27,Yes,2
+TRX-10551,06-08-25 0:00,Morgan,BR-006,West,Wealth Management,Email Campaign,SME,65,54,16129.3,363.36,91.79,No,2
+TRX-10552,26-09-25 0:00,Casey,BR-006,East,Credit Card,Walk-in,Retail,42,115,31265.18,352.39,47.69,No,5
+TRX-10553,10-08-25 0:00,Morgan,BR-008,North,Wealth Management,Social Media,High Net Worth,63,30,11383.17,158.31,282.54,No,4
+TRX-10554,21-08-25 0:00,Alex,BR-007,West,Credit Card,Email Campaign,Corporate,39,98,22519.55,384.62,120.75,Yes,1
+TRX-10555,21-06-26 0:00,Drew,BR-015,North,Auto Loan,Referral,Retail,28,58,45020.92,387.62,21.05,No,4
+TRX-10556,21-12-25 0:00,Drew,BR-010,North,Mortgage,Social Media,High Net Worth,72,68,7109.94,192.78,171.81,No,3
+TRX-10557,13-03-26 0:00,Sam,BR-014,East,Credit Card,Email Campaign,Corporate,28,67,19641.47,267.67,100.12,Yes,4
+TRX-10558,18-11-25 0:00,Drew,BR-011,Central,Personal Loan,Social Media,High Net Worth,62,71,41146.55,182.57,256.68,Yes,5
+TRX-10559,21-06-26 0:00,Sam,BR-012,Central,Credit Card,Website,Corporate,46,18,48489.8,166.42,106.14,Yes,4
+TRX-10560,25-11-25 0:00,Morgan,BR-010,North,Wealth Management,Website,Retail,68,106,22969.34,61.65,51.05,No,2
+TRX-10561,11-11-25 0:00,Taylor,BR-013,South,Auto Loan,Walk-in,High Net Worth,71,7,25596.48,178.35,202.7,Yes,1
+TRX-10562,17-11-25 0:00,Jamie,BR-008,West,Auto Loan,Walk-in,SME,46,40,28822.51,299.29,108.52,Yes,5
+TRX-10563,19-09-25 0:00,Jamie,BR-014,South,Credit Card,Website,High Net Worth,43,70,46651.23,50.72,69.91,Yes,3
+TRX-10564,23-07-26 0:00,Morgan,BR-002,South,Mortgage,Social Media,Corporate,63,86,42981.24,177.45,114.73,Yes,1
+TRX-10565,05-05-26 0:00,Jordan,BR-009,North,Personal Loan,Website,Retail,33,65,8944.76,446.63,164.31,No,1
+TRX-10566,11-09-25 0:00,Jordan,BR-001,North,Auto Loan,Walk-in,Corporate,48,68,22119.51,317.14,5.71,Yes,2
+TRX-10567,11-07-26 0:00,Drew,BR-015,North,Wealth Management,Website,High Net Worth,29,110,23468.02,323.54,189.26,No,2
+TRX-10568,30-06-26 0:00,Jamie,BR-008,North,Wealth Management,Website,High Net Worth,40,49,39560.26,231.51,104.88,No,2
+TRX-10569,16-02-26 0:00,Jamie,BR-012,Central,Mortgage,Social Media,SME,39,52,30343.2,354.41,58.53,No,5
+TRX-10570,31-12-25 0:00,Sam,BR-011,North,Auto Loan,Email Campaign,Retail,68,114,32883.91,135.47,78.52,Yes,4
+TRX-10571,10-11-25 0:00,Taylor,BR-012,Central,Credit Card,Walk-in,Retail,59,107,49910.9,418.44,68.4,Yes,1
+TRX-10572,20-04-26 0:00,Alex,BR-012,Central,Wealth Management,Social Media,High Net Worth,71,29,4210.52,102.51,249.68,Yes,4
+TRX-10573,22-06-26 0:00,Jordan,BR-004,North,Mortgage,Website,Retail,32,21,11538.99,345.2,54.96,Yes,4
+TRX-10574,29-09-25 0:00,Jamie,BR-004,East,Auto Loan,Website,SME,35,90,20690.85,203.52,146.63,Yes,2
+TRX-10575,26-03-26 0:00,Sam,BR-005,West,Auto Loan,Email Campaign,Corporate,51,78,17715.23,386.38,18.81,No,4
+TRX-10576,13-10-25 0:00,Casey,BR-008,South,Auto Loan,Walk-in,Retail,34,9,1571.46,297.39,190.28,Yes,1
+TRX-10577,02-07-26 0:00,Sam,BR-005,Central,Auto Loan,Walk-in,High Net Worth,31,47,5042.99,253.56,186.69,Yes,1
+TRX-10578,04-06-26 0:00,Jordan,BR-008,West,Auto Loan,Referral,Corporate,46,76,34207.19,126.24,141.34,Yes,3
+TRX-10579,07-12-25 0:00,Jordan,BR-015,East,Wealth Management,Walk-in,Corporate,62,42,44026.56,336.57,59.61,Yes,5
+TRX-10580,16-01-26 0:00,Sam,BR-010,South,Mortgage,Email Campaign,SME,47,51,25954.24,488.65,82.42,No,4
+TRX-10581,06-04-26 0:00,Alex,BR-001,South,Auto Loan,Referral,High Net Worth,31,56,27189.96,421.52,67.14,Yes,5
+TRX-10582,05-08-25 0:00,Morgan,BR-012,Central,Personal Loan,Referral,Retail,58,51,13127.12,77,186.51,Yes,5
+TRX-10583,15-03-26 0:00,Jordan,BR-015,North,Personal Loan,Website,High Net Worth,54,70,38509.88,219.3,146.43,No,5
+TRX-10584,24-07-26 0:00,Sam,BR-010,East,Mortgage,Website,Corporate,63,20,37713.83,466.51,126.09,Yes,5
+TRX-10585,22-05-26 0:00,Jamie,BR-009,Central,Credit Card,Walk-in,High Net Worth,39,88,29624.1,276.37,220.27,Yes,1
+TRX-10586,09-04-26 0:00,Sam,BR-006,East,Credit Card,Referral,Retail,26,27,11026.88,347.95,74.22,Yes,4
+TRX-10587,08-04-26 0:00,Taylor,BR-003,North,Credit Card,Website,Retail,66,38,5302.4,460.67,144.02,Yes,3
+TRX-10588,02-08-25 0:00,Morgan,BR-013,North,Personal Loan,Email Campaign,SME,72,72,3679.81,443.21,135.2,Yes,5
+TRX-10589,02-10-25 0:00,Casey,BR-014,Central,Credit Card,Website,Retail,58,65,29838.46,275.82,141.13,Yes,3
+TRX-10590,24-03-26 0:00,Alex,BR-008,North,Wealth Management,Website,Retail,69,54,41339.25,246.94,97.85,No,1
+TRX-10591,08-04-26 0:00,Drew,BR-009,West,Auto Loan,Referral,High Net Worth,62,113,42987.36,202.86,114.88,Yes,1
+TRX-10592,07-08-25 0:00,Casey,BR-006,South,Personal Loan,Referral,High Net Worth,48,113,23449.29,373.56,66.63,No,2
+TRX-10593,05-02-26 0:00,Morgan,BR-011,Central,Mortgage,Social Media,Corporate,21,24,39321.43,179.14,164.93,No,5
+TRX-10594,31-12-25 0:00,Morgan,BR-007,East,Mortgage,Email Campaign,SME,55,47,47370.57,162.45,121.67,Yes,2
+TRX-10595,23-06-26 0:00,Morgan,BR-001,West,Auto Loan,Referral,High Net Worth,60,71,14120.92,210.31,133.3,Yes,3
+TRX-10596,24-09-25 0:00,Casey,BR-014,Central,Personal Loan,Walk-in,Retail,28,83,20199.04,129.75,188.8,Yes,4
+TRX-10597,02-08-25 0:00,Jamie,BR-005,North,Credit Card,Email Campaign,Corporate,72,86,46608.21,362.8,9.57,No,2
+TRX-10598,19-01-26 0:00,Morgan,BR-005,North,Credit Card,Email Campaign,High Net Worth,74,63,17242.43,327.31,255.04,Yes,1
+TRX-10599,12-09-25 0:00,Sam,BR-010,North,Wealth Management,Referral,SME,67,57,45736.88,267.3,199.52,No,5
+TRX-10600,27-08-25 0:00,Casey,BR-014,North,Wealth Management,Email Campaign,SME,27,55,49061.72,225.65,177.39,Yes,3
+TRX-10601,14-06-26 0:00,Drew,BR-004,East,Credit Card,Referral,Corporate,31,60,33259.63,459.08,162.09,No,1
+TRX-10602,17-03-26 0:00,Morgan,BR-006,West,Mortgage,Website,Corporate,59,99,40936.07,63.11,74.86,Yes,4
+TRX-10603,10-08-25 0:00,Sam,BR-007,South,Mortgage,Social Media,Corporate,24,62,37602.51,396.1,46.26,Yes,5
+TRX-10604,07-02-26 0:00,Jamie,BR-009,East,Wealth Management,Website,Corporate,45,30,35126.95,455.86,146.97,Yes,4
+TRX-10605,03-07-26 0:00,Taylor,BR-001,East,Auto Loan,Referral,Corporate,32,93,15693.09,250.86,60.92,Yes,4
+TRX-10606,01-04-26 0:00,Jamie,BR-015,South,Credit Card,Referral,Retail,46,22,3326.17,297.81,35.21,Yes,5
+TRX-10607,01-08-25 0:00,Drew,BR-006,South,Wealth Management,Website,Retail,58,75,17481.06,475.01,157.31,No,5
+TRX-10608,18-03-26 0:00,Morgan,BR-007,North,Wealth Management,Walk-in,High Net Worth,66,84,33513.33,145.52,93.76,No,4
+TRX-10609,22-12-25 0:00,Drew,BR-003,East,Credit Card,Walk-in,SME,32,29,5575.2,284.06,182.89,No,3
+TRX-10610,24-06-26 0:00,Casey,BR-008,Central,Credit Card,Walk-in,Retail,63,115,1089.94,263.62,168.13,Yes,5
+TRX-10611,23-06-26 0:00,Jordan,BR-015,South,Mortgage,Referral,Retail,71,41,7414.77,166.28,169.53,Yes,1
+TRX-10612,22-03-26 0:00,Morgan,BR-005,South,Auto Loan,Email Campaign,Retail,73,42,35928.93,418.37,154.31,Yes,2
+TRX-10613,18-07-26 0:00,Jordan,BR-015,West,Auto Loan,Referral,High Net Worth,57,98,48653.29,454.82,264.27,Yes,3
+TRX-10614,25-05-26 0:00,Sam,BR-009,Central,Credit Card,Email Campaign,Corporate,66,65,49161.7,401.87,161.15,Yes,5
+TRX-10615,20-06-26 0:00,Taylor,BR-005,Central,Personal Loan,Website,High Net Worth,73,31,24951.97,137.91,180.75,Yes,5
+TRX-10616,15-11-25 0:00,Alex,BR-009,South,Wealth Management,Social Media,SME,44,30,43532.94,89.04,59.16,Yes,3
+TRX-10617,10-03-26 0:00,Drew,BR-010,North,Wealth Management,Email Campaign,SME,36,112,36972.91,322.45,177.64,Yes,2
+TRX-10618,18-04-26 0:00,Jamie,BR-004,West,Credit Card,Walk-in,SME,33,18,25301.49,75.69,168.12,Yes,4
+TRX-10619,22-07-26 0:00,Taylor,BR-009,Central,Personal Loan,Referral,SME,45,119,28851.65,352.77,94.58,No,1
+TRX-10620,09-05-26 0:00,Morgan,BR-005,South,Mortgage,Website,Retail,74,17,7292.74,288.69,7.82,Yes,5
+TRX-10621,22-12-25 0:00,Jordan,BR-010,Central,Credit Card,Walk-in,Retail,74,38,46914.24,348.25,127.71,No,2
+TRX-10622,28-03-26 0:00,Jamie,BR-009,West,Credit Card,Website,High Net Worth,72,14,17920.52,315.58,15.18,No,1
+TRX-10623,01-04-26 0:00,Jordan,BR-003,West,Wealth Management,Social Media,Corporate,74,87,22584.39,240.22,185.26,Yes,3
+TRX-10624,04-09-25 0:00,Casey,BR-015,East,Credit Card,Referral,SME,24,89,33747.18,140.39,192.33,Yes,5
+TRX-10625,07-01-26 0:00,Jordan,BR-004,South,Credit Card,Referral,High Net Worth,31,79,17028.17,187.57,56.85,Yes,4
+TRX-10626,13-06-26 0:00,Casey,BR-009,West,Credit Card,Social Media,Retail,52,110,13085.83,286.03,135.28,No,3
+TRX-10627,12-06-26 0:00,Sam,BR-010,East,Wealth Management,Referral,Retail,69,56,31736.94,343.34,18.45,Yes,5
+TRX-10628,23-11-25 0:00,Jamie,BR-011,East,Mortgage,Email Campaign,Corporate,27,22,1736.71,400.77,145.9,No,2
+TRX-10629,03-12-25 0:00,Jamie,BR-006,Central,Mortgage,Website,Corporate,66,67,36175.89,395.23,69.46,Yes,1
+TRX-10630,01-03-26 0:00,Alex,BR-002,Central,Credit Card,Walk-in,Corporate,31,56,25944.16,487.71,136.21,No,1
+TRX-10631,19-09-25 0:00,Morgan,BR-007,East,Wealth Management,Social Media,High Net Worth,48,119,30484.81,178.63,111.87,No,5
+TRX-10632,30-12-25 0:00,Casey,BR-002,Central,Mortgage,Email Campaign,Retail,74,19,31778.07,82,29.11,Yes,3
+TRX-10633,04-01-26 0:00,Alex,BR-011,West,Mortgage,Walk-in,Retail,61,57,26588.98,205.55,81.22,Yes,4
+TRX-10634,14-05-26 0:00,Jordan,BR-002,North,Mortgage,Walk-in,Corporate,43,44,29335.42,384.48,22.53,Yes,2
+TRX-10635,06-04-26 0:00,Jordan,BR-011,West,Wealth Management,Social Media,SME,65,98,34347.52,247.15,115.38,Yes,5
+TRX-10636,24-04-26 0:00,Alex,BR-001,East,Wealth Management,Email Campaign,Corporate,43,35,37779.38,418,8.19,Yes,2
+TRX-10637,31-03-26 0:00,Jamie,BR-011,East,Credit Card,Walk-in,High Net Worth,70,114,36508.89,297.2,158.19,No,1
+TRX-10638,23-10-25 0:00,Jordan,BR-011,West,Auto Loan,Walk-in,Corporate,48,1,43546.01,468.41,177.27,Yes,4
+TRX-10639,24-09-25 0:00,Drew,BR-012,Central,Mortgage,Email Campaign,Corporate,63,52,9877.45,476.54,167.57,No,2
+TRX-10640,01-09-25 0:00,Sam,BR-011,Central,Auto Loan,Referral,High Net Worth,67,85,20356.82,81.19,264.84,No,5
+TRX-10641,03-11-25 0:00,Sam,BR-003,East,Wealth Management,Walk-in,Corporate,46,93,47415.91,255.39,184.41,Yes,4
+TRX-10642,26-09-25 0:00,Drew,BR-006,South,Wealth Management,Website,Retail,45,70,20131.23,324.36,20.91,No,3
+TRX-10643,17-07-26 0:00,Alex,BR-008,Central,Wealth Management,Email Campaign,SME,74,37,6681.07,165.14,25.75,Yes,5
+TRX-10644,11-06-26 0:00,Drew,BR-009,West,Auto Loan,Walk-in,Corporate,49,65,26509.53,233.18,111.4,No,2
+TRX-10645,14-02-26 0:00,Casey,BR-007,Central,Wealth Management,Social Media,High Net Worth,39,51,5919.8,354.96,268.18,Yes,4
+TRX-10646,10-08-25 0:00,Casey,BR-004,West,Credit Card,Website,SME,53,1,10541.24,152.03,194.87,Yes,5
+TRX-10647,09-04-26 0:00,Alex,BR-006,East,Wealth Management,Walk-in,High Net Worth,56,91,49916.78,320.89,13.88,Yes,4
+TRX-10648,22-02-26 0:00,Drew,BR-005,Central,Personal Loan,Website,SME,34,21,27297.45,363.85,71.15,Yes,4
+TRX-10649,20-05-26 0:00,Casey,BR-008,West,Auto Loan,Website,SME,34,53,14560.89,90.72,42.58,Yes,4
+TRX-10650,01-11-25 0:00,Jamie,BR-001,East,Personal Loan,Referral,Corporate,55,16,49741.36,273.89,151.19,Yes,2
+TRX-10651,25-10-25 0:00,Drew,BR-001,South,Wealth Management,Website,Retail,50,108,48344.67,168.39,128.04,Yes,5
+TRX-10652,14-06-26 0:00,Jamie,BR-013,West,Credit Card,Referral,Corporate,48,61,22316.58,375.97,23.98,No,1
+TRX-10653,08-12-25 0:00,Casey,BR-015,South,Mortgage,Email Campaign,High Net Worth,37,54,13389.95,135.3,145.05,Yes,1
+TRX-10654,22-05-26 0:00,Sam,BR-011,South,Wealth Management,Referral,High Net Worth,23,40,42000.78,451.51,205.64,Yes,2
+TRX-10655,29-12-25 0:00,Casey,BR-006,North,Credit Card,Social Media,SME,36,26,35923.23,243.92,155.8,No,2
+TRX-10656,06-10-25 0:00,Jamie,BR-010,Central,Auto Loan,Walk-in,SME,66,80,34503.6,139.1,4.01,No,4
+TRX-10657,30-09-25 0:00,Taylor,BR-012,West,Personal Loan,Email Campaign,Retail,50,92,44709.13,247.11,178.09,No,5
+TRX-10658,20-03-26 0:00,Morgan,BR-002,South,Personal Loan,Email Campaign,Corporate,72,65,34626.15,233.93,113.86,Yes,5
+TRX-10659,12-06-26 0:00,Jordan,BR-005,North,Personal Loan,Social Media,High Net Worth,49,100,14548,243.01,243.57,Yes,3
+TRX-10660,26-03-26 0:00,Drew,BR-001,East,Auto Loan,Referral,SME,65,74,34846.23,313.5,161.59,Yes,3
+TRX-10661,20-09-25 0:00,Taylor,BR-007,West,Credit Card,Walk-in,Retail,35,64,15637.77,284.53,37.97,Yes,1
+TRX-10662,24-11-25 0:00,Casey,BR-001,South,Auto Loan,Referral,High Net Worth,66,43,38082.33,117.4,33.04,No,3
+TRX-10663,08-09-25 0:00,Sam,BR-004,Central,Personal Loan,Website,SME,45,17,31177.52,79.51,144.26,Yes,3
+TRX-10664,25-04-26 0:00,Alex,BR-009,North,Wealth Management,Referral,High Net Worth,71,59,4331.87,378.24,46.94,No,1
+TRX-10665,30-09-25 0:00,Casey,BR-001,South,Mortgage,Email Campaign,Retail,58,23,25885.35,301.87,169.99,Yes,1
+TRX-10666,21-09-25 0:00,Sam,BR-004,Central,Auto Loan,Walk-in,Retail,62,7,17493.4,211.55,145.24,No,3
+TRX-10667,19-11-25 0:00,Morgan,BR-006,South,Auto Loan,Referral,High Net Worth,67,44,16764.25,413.76,252.56,Yes,5
+TRX-10668,14-02-26 0:00,Casey,BR-006,West,Credit Card,Walk-in,Corporate,73,53,30311.69,224.63,59.8,No,3
+TRX-10669,29-10-25 0:00,Jamie,BR-012,West,Credit Card,Walk-in,High Net Worth,74,71,16455.08,408.18,94.98,No,4
+TRX-10670,20-05-26 0:00,Alex,BR-015,West,Auto Loan,Website,SME,72,108,38956.24,187.59,134.24,No,4
+TRX-10671,06-04-26 0:00,Sam,BR-013,North,Personal Loan,Website,Corporate,58,79,4004.18,82.78,6.29,Yes,4
+TRX-10672,07-04-26 0:00,Sam,BR-008,West,Mortgage,Email Campaign,SME,43,34,33189.22,469.69,145.3,Yes,2
+TRX-10673,03-06-26 0:00,Sam,BR-001,Central,Credit Card,Social Media,High Net Worth,45,46,40555.14,227.55,250.74,No,4
+TRX-10674,31-08-25 0:00,Morgan,BR-007,South,Personal Loan,Walk-in,Corporate,62,109,33805.17,406.71,83.03,Yes,5
+TRX-10675,15-05-26 0:00,Casey,BR-001,East,Wealth Management,Social Media,SME,27,68,25112.85,175.61,152.98,Yes,2
+TRX-10676,19-08-25 0:00,Morgan,BR-013,Central,Credit Card,Email Campaign,High Net Worth,42,78,47540.2,340.86,52.38,Yes,2
+TRX-10677,21-01-26 0:00,Drew,BR-014,Central,Personal Loan,Walk-in,High Net Worth,37,78,15346.96,442.99,96.68,Yes,4
+TRX-10678,13-12-25 0:00,Jordan,BR-007,West,Personal Loan,Walk-in,Corporate,38,16,1448.81,68.74,194.86,Yes,3
+TRX-10679,26-04-26 0:00,Jordan,BR-003,North,Mortgage,Social Media,High Net Worth,69,71,21883.47,423.79,295.91,Yes,1
+TRX-10680,18-06-26 0:00,Drew,BR-011,South,Mortgage,Referral,Retail,61,96,2134.09,307.1,102.52,Yes,3
+TRX-10681,22-09-25 0:00,Casey,BR-008,North,Wealth Management,Website,SME,30,19,47719.87,323.36,186.85,Yes,3
+TRX-10682,12-01-26 0:00,Jamie,BR-003,South,Personal Loan,Referral,SME,30,2,10890.94,285.42,104.55,Yes,2
+TRX-10683,15-09-25 0:00,Morgan,BR-014,South,Personal Loan,Social Media,High Net Worth,27,10,39551.89,443.51,87.48,Yes,2
+TRX-10684,25-10-25 0:00,Alex,BR-014,North,Mortgage,Website,High Net Worth,68,50,38841.32,69.55,80.07,Yes,2
+TRX-10685,21-01-26 0:00,Sam,BR-013,Central,Credit Card,Referral,Retail,70,81,11277.58,167.46,185.9,No,5
+TRX-10686,18-07-26 0:00,Sam,BR-001,South,Credit Card,Website,Corporate,58,101,31250.71,444.09,34.49,No,5
+TRX-10687,05-07-26 0:00,Casey,BR-013,North,Auto Loan,Walk-in,High Net Worth,47,12,2879.91,388.56,173.9,No,1
+TRX-10688,28-04-26 0:00,Jamie,BR-013,South,Mortgage,Referral,High Net Worth,72,70,24436.94,57.94,166.66,No,2
+TRX-10689,17-07-26 0:00,Jordan,BR-014,East,Auto Loan,Website,High Net Worth,53,22,1225.03,282.65,221.88,Yes,4
+TRX-10690,24-02-26 0:00,Jordan,BR-008,Central,Mortgage,Website,High Net Worth,21,32,46096.62,288.31,149.77,No,2
+TRX-10691,08-02-26 0:00,Sam,BR-003,West,Wealth Management,Website,SME,64,105,48816.26,230.4,54.46,Yes,5
+TRX-10692,26-12-25 0:00,Casey,BR-002,South,Personal Loan,Referral,High Net Worth,73,84,11503,183.83,50.82,Yes,2
+TRX-10693,17-12-25 0:00,Morgan,BR-001,East,Wealth Management,Email Campaign,SME,54,1,10801.25,356.78,124.16,Yes,5
+TRX-10694,16-07-26 0:00,Jordan,BR-014,West,Mortgage,Referral,High Net Worth,24,54,37809.15,143.51,215.7,Yes,2
+TRX-10695,23-12-25 0:00,Morgan,BR-003,West,Personal Loan,Social Media,Corporate,37,111,13042.28,409.53,113.9,Yes,4
+TRX-10696,30-04-26 0:00,Jamie,BR-015,South,Credit Card,Referral,Retail,24,117,44806.29,411.37,147.67,Yes,1
+TRX-10697,26-08-25 0:00,Jordan,BR-002,North,Credit Card,Website,Corporate,63,58,28909.49,236.87,28.3,No,4
+TRX-10698,05-09-25 0:00,Jordan,BR-002,South,Auto Loan,Walk-in,High Net Worth,74,70,17863.49,177.6,264.74,Yes,5
+TRX-10699,01-08-25 0:00,Taylor,BR-006,East,Mortgage,Referral,High Net Worth,46,83,41718.34,177.75,174.72,Yes,3
+TRX-10700,25-11-25 0:00,Jordan,BR-012,West,Mortgage,Referral,High Net Worth,24,18,24923.63,267.03,38.06,Yes,4
+TRX-10701,02-07-26 0:00,Drew,BR-001,South,Credit Card,Website,Corporate,21,6,45625.83,373.81,92.39,Yes,2
+TRX-10702,19-05-26 0:00,Alex,BR-002,North,Wealth Management,Walk-in,High Net Worth,27,45,46436.7,211.49,253.44,Yes,1
+TRX-10703,13-07-26 0:00,Drew,BR-014,South,Personal Loan,Walk-in,Corporate,50,97,8688.3,324.52,179.51,No,2
+TRX-10704,18-08-25 0:00,Casey,BR-006,Central,Wealth Management,Social Media,SME,70,23,615.01,222.12,52.93,Yes,2
+TRX-10705,15-06-26 0:00,Casey,BR-003,North,Wealth Management,Referral,Retail,29,23,49204.58,187.04,142.25,Yes,4
+TRX-10706,25-06-26 0:00,Morgan,BR-015,East,Credit Card,Walk-in,Retail,55,26,45353.81,61.19,20,Yes,1
+TRX-10707,02-04-26 0:00,Drew,BR-004,West,Credit Card,Walk-in,Corporate,28,77,3244.54,51.76,6.71,Yes,3
+TRX-10708,18-03-26 0:00,Drew,BR-001,South,Credit Card,Email Campaign,SME,44,7,41735.2,152.24,112.08,No,2
+TRX-10709,06-04-26 0:00,Drew,BR-008,North,Auto Loan,Email Campaign,Corporate,39,79,23161.34,232.88,138.97,Yes,1
+TRX-10710,30-06-26 0:00,Jamie,BR-013,Central,Wealth Management,Walk-in,SME,56,44,13318.6,433.07,159.16,No,3
+TRX-10711,05-07-26 0:00,Jordan,BR-007,North,Mortgage,Social Media,High Net Worth,70,27,43997.95,409.32,102.06,No,2
+TRX-10712,10-01-26 0:00,Alex,BR-007,Central,Personal Loan,Walk-in,SME,72,26,10235.03,170.22,1.31,No,1
+TRX-10713,16-12-25 0:00,Morgan,BR-003,East,Auto Loan,Website,SME,63,97,47391.35,160.04,95.9,No,4
+TRX-10714,25-05-26 0:00,Drew,BR-010,West,Mortgage,Referral,SME,47,79,10678.26,152.29,3.17,Yes,2
+TRX-10715,25-08-25 0:00,Drew,BR-010,East,Wealth Management,Social Media,Retail,52,36,30877.32,202.66,18.4,Yes,2
+TRX-10716,14-04-26 0:00,Taylor,BR-003,South,Credit Card,Website,SME,34,109,11542.77,274.19,65.34,Yes,1
+TRX-10717,08-07-26 0:00,Morgan,BR-014,North,Wealth Management,Social Media,High Net Worth,38,55,27510.6,247.4,131.15,No,2
+TRX-10718,02-09-25 0:00,Drew,BR-002,Central,Personal Loan,Website,High Net Worth,48,64,34356.77,148.22,83.84,No,3
+TRX-10719,20-02-26 0:00,Morgan,BR-012,Central,Auto Loan,Referral,High Net Worth,49,91,9916.28,108.7,174.56,No,2
+TRX-10720,04-05-26 0:00,Jordan,BR-001,North,Auto Loan,Referral,SME,36,57,26283.85,55.66,11.07,No,5
+TRX-10721,29-11-25 0:00,Taylor,BR-007,North,Personal Loan,Email Campaign,Corporate,55,69,23718.46,119.28,28.92,Yes,3
+TRX-10722,12-07-26 0:00,Morgan,BR-007,South,Mortgage,Website,Corporate,67,61,4016.35,367.41,139.05,Yes,1
+TRX-10723,20-11-25 0:00,Alex,BR-012,East,Mortgage,Email Campaign,High Net Worth,51,2,41006.24,159.64,42.64,Yes,3
+TRX-10724,25-09-25 0:00,Alex,BR-002,Central,Auto Loan,Website,Retail,24,55,17116.28,260.87,127.96,No,5
+TRX-10725,07-03-26 0:00,Casey,BR-007,South,Auto Loan,Email Campaign,Corporate,57,97,28941.82,316.09,10.94,No,5
+TRX-10726,10-06-26 0:00,Taylor,BR-013,East,Credit Card,Referral,SME,37,80,25981.82,449.08,81.48,No,2
+TRX-10727,08-01-26 0:00,Taylor,BR-008,South,Mortgage,Social Media,Corporate,59,87,25906.39,449.98,35.48,No,2
+TRX-10728,25-09-25 0:00,Casey,BR-001,Central,Personal Loan,Email Campaign,High Net Worth,68,38,5807.51,385.58,32.89,No,4
+TRX-10729,13-08-25 0:00,Morgan,BR-009,North,Mortgage,Website,Retail,66,119,21462.36,65.82,113.41,No,3
+TRX-10730,04-10-25 0:00,Taylor,BR-007,North,Credit Card,Website,Corporate,46,80,22892.15,308.78,185.67,No,4
+TRX-10731,14-10-25 0:00,Alex,BR-003,East,Auto Loan,Referral,Corporate,68,78,36815.32,403.96,10.96,Yes,5
+TRX-10732,13-09-25 0:00,Alex,BR-008,West,Auto Loan,Website,High Net Worth,59,29,42080.93,57.78,126.46,No,2
+TRX-10733,29-12-25 0:00,Drew,BR-007,East,Credit Card,Walk-in,Retail,61,26,27476.62,297.36,141.51,Yes,2
+TRX-10734,18-05-26 0:00,Jordan,BR-011,West,Personal Loan,Social Media,Retail,24,35,4795.76,435.99,92.54,No,2
+TRX-10735,12-11-25 0:00,Taylor,BR-015,South,Auto Loan,Email Campaign,High Net Worth,50,79,12224.05,263.35,241.95,Yes,1
+TRX-10736,03-01-26 0:00,Morgan,BR-013,South,Wealth Management,Social Media,SME,50,67,8664.23,51.85,35.93,Yes,5
+TRX-10737,30-05-26 0:00,Casey,BR-008,Central,Auto Loan,Referral,Corporate,42,87,6668.45,54.96,191.92,No,2
+TRX-10738,16-10-25 0:00,Casey,BR-006,West,Wealth Management,Email Campaign,SME,31,29,18612.02,237.49,77.03,Yes,5
+TRX-10739,12-01-26 0:00,Morgan,BR-009,Central,Credit Card,Email Campaign,Corporate,22,34,11854.98,119.75,68.31,No,2
+TRX-10740,22-09-25 0:00,Jamie,BR-015,North,Credit Card,Walk-in,Corporate,64,97,11306,349,174.92,Yes,3
+TRX-10741,03-10-25 0:00,Sam,BR-005,West,Auto Loan,Referral,SME,32,41,3207.31,368.96,112.77,Yes,5
+TRX-10742,18-11-25 0:00,Jordan,BR-003,East,Mortgage,Website,High Net Worth,50,41,1374.67,130.05,154.94,Yes,4
+TRX-10743,29-05-26 0:00,Casey,BR-003,North,Wealth Management,Walk-in,High Net Worth,56,23,5587.03,449.84,218.1,Yes,1
+TRX-10744,22-10-25 0:00,Taylor,BR-001,North,Personal Loan,Walk-in,Corporate,38,71,9023.78,248.86,115.97,Yes,4
+TRX-10745,22-06-26 0:00,Jordan,BR-012,East,Auto Loan,Social Media,High Net Worth,46,3,21833.69,114.28,48.75,Yes,5
+TRX-10746,18-08-25 0:00,Taylor,BR-015,North,Personal Loan,Social Media,Corporate,73,58,25770.75,393.91,134.84,Yes,2
+TRX-10747,22-05-26 0:00,Jamie,BR-008,West,Auto Loan,Social Media,High Net Worth,27,32,7459.3,405.49,40.04,Yes,5
+TRX-10748,24-02-26 0:00,Alex,BR-002,Central,Mortgage,Walk-in,Corporate,21,31,21526.78,337.68,161.17,Yes,1
+TRX-10749,04-03-26 0:00,Jordan,BR-003,North,Mortgage,Website,High Net Worth,46,82,17416.57,434.06,296.92,No,5
+TRX-10750,06-02-26 0:00,Drew,BR-008,West,Mortgage,Email Campaign,Retail,43,43,9579.47,381.82,75.48,Yes,2
+TRX-10751,27-12-25 0:00,Casey,BR-014,South,Mortgage,Social Media,SME,46,7,838.62,446.99,88.95,Yes,4
+TRX-10752,12-06-26 0:00,Jordan,BR-008,West,Credit Card,Website,Retail,65,105,23617.38,245.25,9.29,No,3
+TRX-10753,28-07-26 0:00,Jordan,BR-014,Central,Credit Card,Referral,SME,26,1,34439.76,386.42,2.75,Yes,4
+TRX-10754,08-07-26 0:00,Jordan,BR-011,West,Wealth Management,Social Media,SME,26,61,11700.73,499.89,184.28,No,2
+TRX-10755,05-07-26 0:00,Sam,BR-004,East,Personal Loan,Email Campaign,Corporate,64,14,7024.44,376.22,25.72,No,2
+TRX-10756,07-06-26 0:00,Jordan,BR-004,Central,Auto Loan,Referral,SME,28,52,44408.62,101.38,89.16,No,1
+TRX-10757,14-07-26 0:00,Taylor,BR-005,South,Auto Loan,Referral,Retail,44,96,14113.73,283.24,163.07,Yes,5
+TRX-10758,15-11-25 0:00,Alex,BR-006,East,Credit Card,Email Campaign,Retail,42,6,11568.82,314.31,177.86,No,5
+TRX-10759,06-07-26 0:00,Jamie,BR-005,West,Auto Loan,Social Media,High Net Worth,39,103,42926.3,128.39,155.82,No,4
+TRX-10760,22-05-26 0:00,Morgan,BR-014,Central,Credit Card,Walk-in,Retail,57,10,40946.8,483.3,113.01,Yes,3
+TRX-10761,09-04-26 0:00,Jordan,BR-015,South,Wealth Management,Email Campaign,High Net Worth,38,71,22693.15,129.01,200.91,Yes,3
+TRX-10762,31-08-25 0:00,Casey,BR-007,East,Personal Loan,Email Campaign,SME,51,90,24717.32,129.9,192.28,Yes,1
+TRX-10763,05-11-25 0:00,Jordan,BR-002,South,Wealth Management,Email Campaign,Retail,57,98,11278.56,461.83,120.53,No,2
+TRX-10764,24-11-25 0:00,Casey,BR-007,West,Mortgage,Referral,SME,50,30,4375.93,259.34,111.9,Yes,1
+TRX-10765,26-10-25 0:00,Taylor,BR-010,South,Mortgage,Website,Retail,62,100,28884.88,78.43,2.91,No,5
+TRX-10766,26-07-26 0:00,Casey,BR-007,North,Mortgage,Walk-in,Retail,53,21,5368.07,319.18,16.19,Yes,2
+TRX-10767,22-04-26 0:00,Drew,BR-001,East,Wealth Management,Social Media,High Net Worth,30,60,22739.09,320.82,173.14,No,1
+TRX-10768,27-12-25 0:00,Morgan,BR-007,South,Auto Loan,Social Media,SME,57,81,47054.61,79.03,187.25,Yes,4
+TRX-10769,08-12-25 0:00,Alex,BR-005,West,Personal Loan,Website,Retail,32,97,47665.3,487.64,173.34,Yes,5
+TRX-10770,13-01-26 0:00,Casey,BR-003,West,Mortgage,Email Campaign,Corporate,74,74,12346.95,294.81,196.52,Yes,3
+TRX-10771,08-06-26 0:00,Casey,BR-013,South,Mortgage,Walk-in,SME,50,115,31393.61,301.91,105.57,Yes,1
+TRX-10772,23-08-25 0:00,Alex,BR-003,West,Mortgage,Social Media,SME,47,63,23966.78,284.05,157.59,Yes,5
+TRX-10773,18-03-26 0:00,Morgan,BR-004,Central,Personal Loan,Social Media,SME,59,111,43846.41,324.83,168.08,Yes,5
+TRX-10774,12-11-25 0:00,Jordan,BR-013,Central,Mortgage,Email Campaign,High Net Worth,29,42,13935.83,168.93,194.42,Yes,3
+TRX-10775,08-06-26 0:00,Casey,BR-012,Central,Personal Loan,Website,Corporate,74,51,683.27,179.26,67.75,No,3
+TRX-10776,16-07-26 0:00,Alex,BR-002,North,Mortgage,Walk-in,SME,41,64,8546.78,280.1,94,No,3
+TRX-10777,10-09-25 0:00,Drew,BR-002,South,Wealth Management,Website,Retail,32,76,17801.38,413.01,171.58,Yes,1
+TRX-10778,10-09-25 0:00,Drew,BR-001,North,Wealth Management,Website,Retail,49,56,16128.2,72.44,59.71,Yes,3
+TRX-10779,05-06-26 0:00,Taylor,BR-015,West,Personal Loan,Walk-in,High Net Worth,53,80,39672.46,321.53,277.12,Yes,4
+TRX-10780,19-01-26 0:00,Alex,BR-005,North,Wealth Management,Walk-in,Retail,63,41,34187.75,413.05,45.96,No,5
+TRX-10781,14-04-26 0:00,Taylor,BR-004,West,Personal Loan,Social Media,SME,73,32,15328.04,120.61,149.9,Yes,3
+TRX-10782,28-01-26 0:00,Drew,BR-011,West,Wealth Management,Social Media,Retail,35,15,23158.32,56.76,126.11,Yes,5
+TRX-10783,24-06-26 0:00,Morgan,BR-010,East,Wealth Management,Walk-in,SME,22,62,5230.18,190.72,149.92,Yes,2
+TRX-10784,08-11-25 0:00,Jordan,BR-015,Central,Personal Loan,Referral,Retail,72,27,44958.25,314.66,87.47,No,2
+TRX-10785,07-10-25 0:00,Alex,BR-002,West,Auto Loan,Social Media,Corporate,59,28,46803.53,112.23,186.53,Yes,3
+TRX-10786,11-04-26 0:00,Jamie,BR-003,East,Wealth Management,Referral,High Net Worth,73,81,49000.28,241.76,189.74,No,5
+TRX-10787,18-04-26 0:00,Drew,BR-007,Central,Mortgage,Walk-in,High Net Worth,64,64,43493.37,298.54,86.49,Yes,2
+TRX-10788,13-06-26 0:00,Drew,BR-007,West,Auto Loan,Social Media,Corporate,74,110,9111.06,319.5,127.69,Yes,3
+TRX-10789,11-04-26 0:00,Jamie,BR-012,West,Personal Loan,Website,Corporate,38,59,2786.73,173.49,57.36,Yes,5
+TRX-10790,12-09-25 0:00,Sam,BR-004,North,Auto Loan,Walk-in,High Net Worth,23,114,29190.04,230.01,88.1,Yes,3
+TRX-10791,11-02-26 0:00,Drew,BR-005,North,Credit Card,Email Campaign,Corporate,27,58,45673.95,400.25,79.92,Yes,5
+TRX-10792,07-05-26 0:00,Casey,BR-005,Central,Credit Card,Referral,SME,63,2,9278.89,473.55,170.49,Yes,2
+TRX-10793,08-02-26 0:00,Morgan,BR-006,West,Wealth Management,Walk-in,Retail,38,36,848.62,437.85,100.06,Yes,3
+TRX-10794,17-11-25 0:00,Alex,BR-014,South,Wealth Management,Walk-in,High Net Worth,64,114,40372.05,303.93,203.67,Yes,2
+TRX-10795,21-03-26 0:00,Jamie,BR-009,North,Mortgage,Social Media,Corporate,58,71,4301.39,234.63,78.39,Yes,3
+TRX-10796,20-09-25 0:00,Casey,BR-002,Central,Auto Loan,Social Media,SME,57,13,20978.45,199.83,52.72,No,1
+TRX-10797,02-05-26 0:00,Jamie,BR-005,West,Credit Card,Social Media,High Net Worth,53,15,34104.92,106.23,286.4,Yes,2
+TRX-10798,06-02-26 0:00,Alex,BR-012,West,Wealth Management,Email Campaign,Corporate,64,89,12221.48,97.95,120.72,Yes,2
+TRX-10799,15-02-26 0:00,Taylor,BR-003,South,Auto Loan,Social Media,High Net Worth,51,87,4656.15,359.76,280.18,Yes,4
+TRX-10800,13-10-25 0:00,Alex,BR-004,Central,Wealth Management,Walk-in,Corporate,31,60,38616.05,166.91,40.68,Yes,2
+TRX-10801,05-11-25 0:00,Sam,BR-010,West,Wealth Management,Social Media,High Net Worth,24,22,31693.67,164.6,44.07,Yes,5
+TRX-10802,09-06-26 0:00,Alex,BR-006,North,Credit Card,Website,SME,38,63,49430.28,499.19,171.16,Yes,3
+TRX-10803,30-08-25 0:00,Alex,BR-012,South,Credit Card,Social Media,SME,24,90,17543.25,134.57,136.18,Yes,1
+TRX-10804,31-05-26 0:00,Sam,BR-008,Central,Wealth Management,Email Campaign,Retail,69,97,3557.24,116.63,37.32,Yes,5
+TRX-10805,05-02-26 0:00,Morgan,BR-001,South,Personal Loan,Website,High Net Worth,54,75,36850.33,94.41,80.8,No,5
+TRX-10806,12-07-26 0:00,Drew,BR-010,North,Wealth Management,Walk-in,Retail,49,74,26325.8,310.91,160.13,Yes,5
+TRX-10807,11-11-25 0:00,Alex,BR-014,Central,Wealth Management,Walk-in,High Net Worth,44,25,11053.59,332.54,136.16,Yes,5
+TRX-10808,27-08-25 0:00,Sam,BR-008,South,Mortgage,Referral,Corporate,42,101,39195.58,214.35,134.11,Yes,1
+TRX-10809,10-06-26 0:00,Casey,BR-011,East,Mortgage,Website,Corporate,22,48,10585.9,290.94,63.67,Yes,4
+TRX-10810,16-12-25 0:00,Taylor,BR-014,North,Mortgage,Referral,Retail,64,43,13402.75,404.78,76.25,No,2
+TRX-10811,01-02-26 0:00,Taylor,BR-007,North,Personal Loan,Website,High Net Worth,26,117,5080.16,418.15,297.21,Yes,5
+TRX-10812,01-12-25 0:00,Alex,BR-001,North,Personal Loan,Website,Retail,62,38,20271.9,481.06,49.52,Yes,2
+TRX-10813,28-11-25 0:00,Morgan,BR-002,East,Wealth Management,Email Campaign,SME,45,41,21237,420.92,101.29,Yes,2
+TRX-10814,28-09-25 0:00,Morgan,BR-003,East,Mortgage,Referral,Retail,41,45,25970.81,304.18,168.88,Yes,5
+TRX-10815,27-08-25 0:00,Casey,BR-001,West,Personal Loan,Email Campaign,Retail,36,88,35593.73,130.85,47.84,No,4
+TRX-10816,16-12-25 0:00,Alex,BR-014,South,Credit Card,Website,Corporate,51,40,45352,94.89,83.04,Yes,2
+TRX-10817,15-02-26 0:00,Taylor,BR-009,West,Wealth Management,Walk-in,Retail,34,110,7317.84,74.53,123.02,Yes,3
+TRX-10818,26-09-25 0:00,Morgan,BR-008,South,Auto Loan,Website,High Net Worth,59,97,3190.23,349.94,144.36,Yes,2
+TRX-10819,15-02-26 0:00,Alex,BR-002,East,Wealth Management,Email Campaign,Corporate,48,17,1417.3,413.39,91.9,Yes,5
+TRX-10820,20-02-26 0:00,Jamie,BR-013,East,Auto Loan,Referral,Retail,52,88,7609.26,278.91,72.5,Yes,1
+TRX-10821,22-03-26 0:00,Morgan,BR-009,West,Mortgage,Referral,SME,48,101,33068.5,74.62,117.33,Yes,2
+TRX-10822,05-09-25 0:00,Sam,BR-007,Central,Auto Loan,Email Campaign,Retail,71,57,36510.12,290.96,124.87,No,4
+TRX-10823,16-11-25 0:00,Jamie,BR-009,West,Mortgage,Referral,Retail,69,2,39432.03,471.09,130.66,Yes,3
+TRX-10824,07-11-25 0:00,Drew,BR-006,South,Credit Card,Social Media,Retail,29,96,12563.56,318.93,14.07,Yes,3
+TRX-10825,17-10-25 0:00,Morgan,BR-006,West,Auto Loan,Walk-in,Corporate,65,62,15641.79,414.24,126.21,Yes,1
+TRX-10826,20-09-25 0:00,Taylor,BR-011,North,Wealth Management,Walk-in,High Net Worth,42,88,24415.16,410.07,285.98,Yes,1
+TRX-10827,01-08-25 0:00,Jordan,BR-014,South,Mortgage,Walk-in,SME,52,9,3627.56,469.46,108.2,Yes,2
+TRX-10828,23-05-26 0:00,Jamie,BR-004,South,Wealth Management,Referral,Retail,25,68,30751.51,396.6,143.05,No,5
+TRX-10829,08-07-26 0:00,Drew,BR-010,Central,Personal Loan,Referral,High Net Worth,43,81,49194.88,386.47,167.02,No,4
+TRX-10830,14-08-25 0:00,Casey,BR-010,East,Mortgage,Website,High Net Worth,25,17,18359.91,155.35,256.42,Yes,3
+TRX-10831,13-11-25 0:00,Casey,BR-013,South,Auto Loan,Website,Corporate,62,117,37765.95,76.97,185.92,Yes,1
+TRX-10832,11-01-26 0:00,Taylor,BR-013,East,Mortgage,Walk-in,SME,73,50,25251.68,282.92,36.84,Yes,4
+TRX-10833,04-03-26 0:00,Morgan,BR-002,West,Wealth Management,Social Media,Corporate,52,112,6826.69,106,87.37,Yes,5
+TRX-10834,16-11-25 0:00,Alex,BR-007,North,Credit Card,Website,High Net Worth,30,94,29320.75,482.99,117.72,No,3
+TRX-10835,25-04-26 0:00,Morgan,BR-005,Central,Mortgage,Website,High Net Worth,59,40,15343.78,180.47,121.56,Yes,3
+TRX-10836,07-09-25 0:00,Taylor,BR-011,East,Auto Loan,Referral,High Net Worth,35,58,2202.96,433.82,37.65,Yes,5
+TRX-10837,04-06-26 0:00,Casey,BR-006,South,Personal Loan,Social Media,Corporate,27,75,31929.02,224.43,162.72,No,3
+TRX-10838,22-02-26 0:00,Morgan,BR-002,East,Credit Card,Walk-in,SME,49,85,43017.15,195.44,7.15,Yes,5
+TRX-10839,07-07-26 0:00,Casey,BR-005,South,Personal Loan,Website,Retail,67,21,17566.1,470.82,105.65,No,3
+TRX-10840,15-01-26 0:00,Jamie,BR-010,East,Mortgage,Social Media,Corporate,23,18,19819.63,213.5,132.38,No,2
+TRX-10841,03-12-25 0:00,Drew,BR-004,South,Wealth Management,Social Media,High Net Worth,39,55,44605.57,225.63,62.24,Yes,5
+TRX-10842,29-10-25 0:00,Alex,BR-009,West,Wealth Management,Walk-in,Corporate,30,29,40773.64,97.74,181.17,Yes,4
+TRX-10843,04-11-25 0:00,Jamie,BR-006,South,Auto Loan,Social Media,High Net Worth,48,24,35890.16,351.7,251.56,No,2
+TRX-10844,15-12-25 0:00,Casey,BR-002,South,Wealth Management,Social Media,Retail,49,74,12815.45,179.98,94.22,No,4
+TRX-10845,31-10-25 0:00,Casey,BR-001,North,Credit Card,Social Media,Retail,35,109,45555.72,313.52,82.23,Yes,3
+TRX-10846,19-08-25 0:00,Jordan,BR-005,South,Wealth Management,Website,SME,55,17,8143.58,316.11,47.31,Yes,4
+TRX-10847,21-01-26 0:00,Jordan,BR-009,North,Auto Loan,Walk-in,High Net Worth,26,18,31525.14,373.64,219,Yes,2
+TRX-10848,18-07-26 0:00,Jamie,BR-006,Central,Mortgage,Social Media,SME,32,42,1925.66,385.36,26.35,Yes,5
+TRX-10849,02-11-25 0:00,Sam,BR-010,North,Mortgage,Social Media,SME,67,112,32364.13,281.5,136.05,Yes,1
+TRX-10850,19-03-26 0:00,Jamie,BR-012,West,Wealth Management,Website,Retail,58,84,14218.65,198.95,168.49,Yes,4
+TRX-10851,06-03-26 0:00,Jordan,BR-007,North,Personal Loan,Walk-in,Corporate,33,101,22759.01,426.85,45.69,Yes,1
+TRX-10852,21-11-25 0:00,Casey,BR-005,Central,Mortgage,Referral,Corporate,49,45,17590.6,189.44,173.29,Yes,4
+TRX-10853,05-06-26 0:00,Taylor,BR-010,West,Wealth Management,Website,SME,39,82,9051.46,278.38,6.66,No,4
+TRX-10854,29-04-26 0:00,Jamie,BR-006,East,Auto Loan,Walk-in,Retail,23,17,31288.05,230.56,182.56,No,5
+TRX-10855,06-07-26 0:00,Casey,BR-005,East,Wealth Management,Social Media,High Net Worth,28,73,44157.79,434.79,35.51,Yes,3
+TRX-10856,15-12-25 0:00,Taylor,BR-011,North,Mortgage,Walk-in,Corporate,28,14,47974.67,244.36,129.15,Yes,2
+TRX-10857,13-06-26 0:00,Taylor,BR-009,North,Auto Loan,Walk-in,SME,40,49,10021.14,223.74,50.02,Yes,2
+TRX-10858,09-09-25 0:00,Jordan,BR-015,Central,Wealth Management,Walk-in,Corporate,67,29,36009.95,360.42,167.31,Yes,2
+TRX-10859,12-03-26 0:00,Jamie,BR-006,Central,Credit Card,Referral,Corporate,24,95,33384.8,321.1,102.46,No,3
+TRX-10860,08-01-26 0:00,Morgan,BR-011,South,Auto Loan,Walk-in,High Net Worth,71,4,17497.2,98.26,40.58,Yes,1
+TRX-10861,02-03-26 0:00,Alex,BR-008,Central,Credit Card,Referral,Retail,41,82,1445.41,278.68,114.2,No,2
+TRX-10862,23-04-26 0:00,Jordan,BR-002,South,Personal Loan,Social Media,High Net Worth,23,20,34644.67,380.97,122.37,Yes,1
+TRX-10863,23-04-26 0:00,Jordan,BR-012,West,Auto Loan,Referral,Retail,65,47,47302,496.43,132.29,Yes,3
+TRX-10864,28-09-25 0:00,Morgan,BR-013,North,Credit Card,Social Media,Corporate,28,107,31789.95,333.12,176.38,Yes,3
+TRX-10865,08-04-26 0:00,Alex,BR-009,West,Mortgage,Social Media,SME,43,108,22046.99,216.63,81.88,Yes,5
+TRX-10866,14-05-26 0:00,Casey,BR-005,Central,Mortgage,Referral,High Net Worth,36,9,26495.12,151.77,86.97,Yes,2
+TRX-10867,20-01-26 0:00,Sam,BR-007,West,Personal Loan,Website,Retail,33,77,10381.63,442.77,2.9,No,5
+TRX-10868,24-04-26 0:00,Jamie,BR-010,West,Auto Loan,Email Campaign,Corporate,23,79,37651.94,416.55,114.97,No,2
+TRX-10869,08-03-26 0:00,Sam,BR-013,West,Auto Loan,Walk-in,Retail,68,27,37447.78,155.27,80.45,No,3
+TRX-10870,26-06-26 0:00,Casey,BR-001,Central,Auto Loan,Email Campaign,Retail,29,15,7703.11,140.28,74.93,No,3
+TRX-10871,16-01-26 0:00,Drew,BR-010,West,Personal Loan,Walk-in,Retail,34,92,43959.93,371.81,36.59,No,4
+TRX-10872,12-06-26 0:00,Jordan,BR-005,South,Auto Loan,Walk-in,Corporate,33,101,13824.89,191.73,86.01,Yes,4
+TRX-10873,21-12-25 0:00,Alex,BR-012,Central,Mortgage,Social Media,SME,73,119,49121.68,187.88,196.89,Yes,3
+TRX-10874,15-11-25 0:00,Jordan,BR-014,West,Credit Card,Walk-in,SME,27,19,19453.7,118.53,59.55,No,3
+TRX-10875,26-08-25 0:00,Taylor,BR-010,Central,Mortgage,Walk-in,SME,35,90,9305.26,168.79,119.94,Yes,1
+TRX-10876,18-03-26 0:00,Jordan,BR-014,East,Mortgage,Referral,Retail,27,52,17910.15,242.38,155.3,No,1
+TRX-10877,19-04-26 0:00,Jordan,BR-002,South,Credit Card,Email Campaign,Corporate,58,26,22288.93,379.78,149.83,Yes,5
+TRX-10878,04-09-25 0:00,Casey,BR-012,West,Mortgage,Referral,Retail,54,89,3930.73,201.34,65.75,Yes,4
+TRX-10879,07-03-26 0:00,Casey,BR-006,East,Personal Loan,Walk-in,SME,61,26,29121.81,197.87,122.17,No,4
+TRX-10880,20-09-25 0:00,Casey,BR-011,East,Credit Card,Social Media,SME,42,26,30082.81,178.21,174.25,Yes,3
+TRX-10881,24-06-26 0:00,Sam,BR-001,Central,Mortgage,Referral,Corporate,44,46,37077.06,265.23,3.09,Yes,3
+TRX-10882,04-12-25 0:00,Taylor,BR-003,East,Wealth Management,Referral,Retail,69,92,1943.91,131.29,87.15,No,5
+TRX-10883,28-02-26 0:00,Drew,BR-005,South,Mortgage,Website,High Net Worth,57,49,27291.29,268.53,67.28,No,4
+TRX-10884,24-06-26 0:00,Drew,BR-004,South,Personal Loan,Walk-in,High Net Worth,64,82,3118.92,366.88,116.6,Yes,1
+TRX-10885,08-11-25 0:00,Casey,BR-003,North,Auto Loan,Social Media,SME,21,96,35206.64,63.41,83.2,No,2
+TRX-10886,30-11-25 0:00,Alex,BR-010,South,Mortgage,Referral,Corporate,30,53,3258.54,54.4,149.33,No,5
+TRX-10887,20-10-25 0:00,Sam,BR-013,East,Auto Loan,Referral,Retail,63,3,45630.53,83.81,18.76,No,2
+TRX-10888,18-04-26 0:00,Morgan,BR-005,South,Wealth Management,Social Media,Retail,36,66,35253.09,291.05,102.52,No,1
+TRX-10889,03-06-26 0:00,Alex,BR-011,Central,Mortgage,Walk-in,SME,66,97,25615.79,434.5,112.84,Yes,1
+TRX-10890,13-03-26 0:00,Jamie,BR-008,North,Credit Card,Website,SME,28,42,22354.44,52.2,98.83,Yes,2
+TRX-10891,17-04-26 0:00,Jamie,BR-011,East,Auto Loan,Referral,Retail,69,19,6968.3,471.5,146.37,Yes,5
+TRX-10892,12-03-26 0:00,Alex,BR-004,North,Wealth Management,Website,Retail,45,17,14904.47,97.83,76.76,Yes,2
+TRX-10893,14-02-26 0:00,Casey,BR-001,East,Credit Card,Email Campaign,SME,70,108,43513.48,428.89,188.99,Yes,5
+TRX-10894,19-04-26 0:00,Morgan,BR-011,Central,Credit Card,Walk-in,Retail,32,33,45270.41,267.28,96.36,Yes,5
+TRX-10895,12-10-25 0:00,Morgan,BR-007,North,Credit Card,Email Campaign,High Net Worth,45,76,537.01,346.71,171.36,Yes,3
+TRX-10896,17-03-26 0:00,Sam,BR-008,West,Credit Card,Email Campaign,SME,37,49,29909.75,279.81,165.11,Yes,4
+TRX-10897,06-08-25 0:00,Morgan,BR-003,East,Mortgage,Email Campaign,Retail,46,56,36105.38,264.67,55.05,Yes,4
+TRX-10898,05-08-25 0:00,Jamie,BR-006,West,Mortgage,Walk-in,SME,66,63,31127.98,425.7,15.04,No,1
+TRX-10899,21-09-25 0:00,Taylor,BR-002,North,Mortgage,Walk-in,Corporate,68,3,4543.15,390.15,141.56,Yes,3
+TRX-10900,06-04-26 0:00,Casey,BR-007,West,Wealth Management,Social Media,SME,34,107,11277.38,267.53,96.6,Yes,4
+TRX-10901,09-07-26 0:00,Morgan,BR-015,West,Wealth Management,Website,SME,61,49,12891.84,100.24,179.3,Yes,5
+TRX-10902,01-12-25 0:00,Sam,BR-008,North,Wealth Management,Website,Corporate,56,55,41670.37,101.93,196.54,Yes,5
+TRX-10903,20-12-25 0:00,Jamie,BR-006,Central,Personal Loan,Social Media,High Net Worth,43,26,23428.37,410.69,119.73,No,2
+TRX-10904,17-06-26 0:00,Taylor,BR-006,West,Wealth Management,Social Media,Retail,63,99,24598,288.23,83.09,Yes,2
+TRX-10905,24-03-26 0:00,Jordan,BR-005,West,Mortgage,Email Campaign,Corporate,26,72,46777.21,266.72,81.59,Yes,5
+TRX-10906,14-09-25 0:00,Jordan,BR-008,Central,Mortgage,Social Media,SME,67,52,32035.75,356.26,64.91,Yes,5
+TRX-10907,03-08-25 0:00,Taylor,BR-001,West,Personal Loan,Referral,Retail,25,100,44984.05,436.48,156.34,Yes,2
+TRX-10908,17-09-25 0:00,Jamie,BR-010,West,Personal Loan,Website,Corporate,63,117,23097.19,332.99,151.8,Yes,4
+TRX-10909,28-11-25 0:00,Sam,BR-004,West,Wealth Management,Social Media,Retail,45,118,7897.09,393.28,95.73,Yes,1
+TRX-10910,07-04-26 0:00,Taylor,BR-015,South,Auto Loan,Referral,Retail,38,7,46531.81,394.37,8.93,Yes,2
+TRX-10911,14-12-25 0:00,Casey,BR-004,Central,Personal Loan,Referral,Corporate,33,46,23205.9,210.32,61.91,No,4
+TRX-10912,01-04-26 0:00,Casey,BR-003,West,Credit Card,Referral,Retail,63,46,9490.76,173.34,58.46,No,4
+TRX-10913,03-08-25 0:00,Jordan,BR-003,Central,Mortgage,Referral,High Net Worth,34,100,15468.59,410.52,243.33,Yes,4
+TRX-10914,01-08-26 0:00,Morgan,BR-004,East,Credit Card,Email Campaign,Corporate,48,16,3014.73,219.73,17.52,Yes,3
+TRX-10915,17-04-26 0:00,Sam,BR-011,East,Mortgage,Referral,High Net Worth,38,24,23680.88,456.5,241.71,Yes,3
+TRX-10916,17-08-25 0:00,Jordan,BR-001,West,Mortgage,Email Campaign,SME,48,61,42729.84,81.36,133.84,Yes,4
+TRX-10917,02-08-25 0:00,Morgan,BR-014,Central,Personal Loan,Email Campaign,Retail,71,54,46712.23,76.2,146.49,Yes,5
+TRX-10918,27-10-25 0:00,Morgan,BR-011,Central,Personal Loan,Referral,SME,47,62,46663.81,467.15,86.44,No,3
+TRX-10919,14-12-25 0:00,Drew,BR-013,Central,Credit Card,Website,SME,52,1,6698.89,341.8,135.95,Yes,2
+TRX-10920,26-07-26 0:00,Casey,BR-011,South,Mortgage,Referral,Retail,67,49,19411.67,220.82,121.81,No,3
+TRX-10921,06-03-26 0:00,Jamie,BR-002,East,Credit Card,Referral,Corporate,29,25,1897.32,389.78,153.8,Yes,5
+TRX-10922,21-07-26 0:00,Alex,BR-009,Central,Auto Loan,Referral,Retail,60,10,42830.68,352.55,89.35,No,1
+TRX-10923,22-05-26 0:00,Jamie,BR-010,Central,Credit Card,Website,SME,52,118,18258.41,289.04,94.57,Yes,3
+TRX-10924,31-01-26 0:00,Alex,BR-002,South,Wealth Management,Walk-in,SME,40,80,31740.29,94.49,128.72,No,4
+TRX-10925,26-12-25 0:00,Taylor,BR-005,South,Credit Card,Walk-in,Corporate,48,16,35887.47,415.48,21.62,Yes,4
+TRX-10926,01-08-26 0:00,Casey,BR-009,Central,Wealth Management,Email Campaign,Retail,53,58,21777.31,439.71,87.25,No,4
+TRX-10927,22-08-25 0:00,Morgan,BR-009,North,Wealth Management,Email Campaign,SME,24,72,15668.9,127.48,194.39,No,1
+TRX-10928,15-09-25 0:00,Sam,BR-008,Central,Wealth Management,Website,High Net Worth,66,29,48129.54,432.73,11.26,No,5
+TRX-10929,10-10-25 0:00,Alex,BR-001,Central,Auto Loan,Social Media,SME,54,103,48242.17,445.03,63.2,Yes,2
+TRX-10930,26-04-26 0:00,Jamie,BR-001,South,Credit Card,Walk-in,SME,68,92,14827.1,297.24,62.82,No,5
+TRX-10931,12-06-26 0:00,Morgan,BR-009,South,Credit Card,Email Campaign,Corporate,23,6,24241.44,345.28,126.69,Yes,1
+TRX-10932,14-09-25 0:00,Alex,BR-013,Central,Auto Loan,Walk-in,High Net Worth,46,16,48655.79,222.01,31.74,Yes,4
+TRX-10933,01-12-25 0:00,Alex,BR-011,Central,Mortgage,Website,SME,28,20,740.99,176.81,125.71,No,5
+TRX-10934,11-12-25 0:00,Drew,BR-008,Central,Personal Loan,Website,SME,26,80,20927.57,374.89,19.01,Yes,2
+TRX-10935,12-02-26 0:00,Alex,BR-010,South,Credit Card,Social Media,High Net Worth,36,71,5472.65,437.84,28.48,Yes,4
+TRX-10936,13-07-26 0:00,Sam,BR-009,Central,Personal Loan,Social Media,Retail,44,105,25703.32,344.33,145.64,Yes,2
+TRX-10937,30-03-26 0:00,Casey,BR-007,Central,Auto Loan,Website,Retail,68,78,1721.16,280.22,64.83,No,3
+TRX-10938,03-09-25 0:00,Sam,BR-003,West,Mortgage,Email Campaign,SME,59,43,20641.47,121.52,195.48,Yes,2
+TRX-10939,09-07-26 0:00,Jordan,BR-003,North,Mortgage,Walk-in,SME,50,26,11424.6,74.06,7.47,Yes,4
+TRX-10940,05-07-26 0:00,Morgan,BR-002,East,Mortgage,Referral,Retail,65,90,26898.76,250.56,89.02,Yes,3
+TRX-10941,09-10-25 0:00,Casey,BR-005,North,Auto Loan,Social Media,Corporate,33,78,49801.69,72.21,22.63,No,4
+TRX-10942,28-02-26 0:00,Drew,BR-012,West,Wealth Management,Referral,High Net Worth,25,71,40126.54,306.2,105.42,Yes,4
+TRX-10943,18-06-26 0:00,Casey,BR-012,East,Wealth Management,Email Campaign,High Net Worth,45,33,42359.28,222.23,299.46,No,3
+TRX-10944,30-06-26 0:00,Casey,BR-003,Central,Personal Loan,Social Media,Corporate,40,26,31945.62,390.74,177.77,Yes,2
+TRX-10945,20-09-25 0:00,Jamie,BR-014,West,Wealth Management,Referral,Corporate,74,45,2557.21,187.54,9.66,No,1
+TRX-10946,06-05-26 0:00,Casey,BR-006,Central,Wealth Management,Email Campaign,Corporate,38,84,10736.48,316.84,112.65,No,1
+TRX-10947,21-05-26 0:00,Drew,BR-002,South,Mortgage,Walk-in,Corporate,67,63,46290.7,291.96,129.56,Yes,1
+TRX-10948,10-04-26 0:00,Sam,BR-012,West,Mortgage,Email Campaign,Corporate,38,67,18622.6,52.12,41.91,Yes,1
+TRX-10949,12-02-26 0:00,Casey,BR-003,South,Personal Loan,Social Media,Corporate,22,52,5630.02,82.58,29.02,No,5
+TRX-10950,27-08-25 0:00,Taylor,BR-005,West,Credit Card,Website,High Net Worth,30,68,35269.07,180.67,271.32,Yes,1
+TRX-10951,10-12-25 0:00,Morgan,BR-012,West,Personal Loan,Walk-in,Corporate,65,26,15323.16,447.01,193.76,Yes,3
+TRX-10952,28-07-26 0:00,Casey,BR-011,South,Personal Loan,Referral,Retail,70,75,13808.42,116.16,198.38,No,1
+TRX-10953,03-07-26 0:00,Morgan,BR-011,East,Auto Loan,Social Media,Corporate,67,2,49899.88,369.9,157.95,No,4
+TRX-10954,14-05-26 0:00,Taylor,BR-001,North,Auto Loan,Website,Corporate,32,14,42977.88,488.01,132.7,Yes,1
+TRX-10955,26-08-25 0:00,Taylor,BR-013,Central,Personal Loan,Email Campaign,High Net Worth,67,108,20692.92,405.76,103.72,Yes,2
+TRX-10956,01-09-25 0:00,Morgan,BR-001,West,Personal Loan,Website,High Net Worth,33,30,49022.93,159.33,51.42,Yes,3
+TRX-10957,18-08-25 0:00,Alex,BR-010,Central,Personal Loan,Social Media,Corporate,70,49,32680.6,458.76,15.8,Yes,3
+TRX-10958,06-02-26 0:00,Jordan,BR-009,South,Wealth Management,Social Media,High Net Worth,67,12,37230.11,91.9,207.99,No,5
+TRX-10959,04-01-26 0:00,Jamie,BR-007,Central,Auto Loan,Website,SME,31,90,2059.9,260.66,156.94,No,4
+TRX-10960,22-09-25 0:00,Alex,BR-001,South,Personal Loan,Email Campaign,High Net Worth,39,44,6519.46,449.39,247.94,No,3
+TRX-10961,09-04-26 0:00,Alex,BR-015,Central,Mortgage,Website,High Net Worth,55,33,31837.71,338.57,274.12,Yes,2
+TRX-10962,08-03-26 0:00,Sam,BR-012,North,Mortgage,Social Media,High Net Worth,59,13,45001.69,236.14,263.98,Yes,1
+TRX-10963,30-06-26 0:00,Jamie,BR-014,North,Wealth Management,Social Media,High Net Worth,73,78,31375.31,181.77,299.92,Yes,3
+TRX-10964,11-02-26 0:00,Jamie,BR-008,North,Wealth Management,Referral,Retail,46,88,7134.23,218.79,48.81,Yes,2
+TRX-10965,07-08-25 0:00,Alex,BR-003,North,Credit Card,Referral,Retail,66,98,6230.12,279.02,152.66,No,1
+TRX-10966,23-02-26 0:00,Casey,BR-008,North,Credit Card,Walk-in,Retail,34,108,42287.2,193.57,117.29,Yes,5
+TRX-10967,26-04-26 0:00,Sam,BR-015,North,Credit Card,Social Media,Corporate,74,26,7395.47,486.04,52.25,Yes,3
+TRX-10968,20-08-25 0:00,Sam,BR-005,South,Wealth Management,Referral,Corporate,65,21,26251.48,469.88,196.38,No,3
+TRX-10969,31-03-26 0:00,Taylor,BR-001,West,Wealth Management,Website,SME,64,28,2337.11,441.8,179.58,No,2
+TRX-10970,13-09-25 0:00,Drew,BR-007,Central,Wealth Management,Email Campaign,Retail,44,48,4493.15,239.82,25.7,No,4
+TRX-10971,15-03-26 0:00,Jamie,BR-005,North,Mortgage,Website,Corporate,61,100,33781.24,361.09,5.23,No,5
+TRX-10972,20-07-26 0:00,Alex,BR-006,South,Wealth Management,Email Campaign,High Net Worth,21,40,34614.48,456.27,206.5,Yes,4
+TRX-10973,25-07-26 0:00,Taylor,BR-006,South,Mortgage,Referral,High Net Worth,71,66,17402.74,432.69,181.24,Yes,3
+TRX-10974,05-05-26 0:00,Morgan,BR-008,South,Credit Card,Walk-in,Retail,63,106,11172.68,236.45,187.16,Yes,4
+TRX-10975,24-03-26 0:00,Jordan,BR-009,West,Credit Card,Website,SME,42,73,40778.66,100.57,46.8,Yes,1
+TRX-10976,16-07-26 0:00,Drew,BR-002,Central,Credit Card,Website,SME,43,87,11246.61,84.03,16.88,No,5
+TRX-10977,12-12-25 0:00,Drew,BR-009,West,Personal Loan,Website,High Net Worth,74,79,27330.34,309.68,77.76,Yes,4
+TRX-10978,11-03-26 0:00,Drew,BR-012,East,Personal Loan,Email Campaign,SME,39,77,48426.34,339.18,3.79,Yes,1
+TRX-10979,12-11-25 0:00,Sam,BR-015,South,Auto Loan,Referral,Retail,38,23,7818.7,432.43,7.18,Yes,2
+TRX-10980,27-10-25 0:00,Morgan,BR-011,East,Auto Loan,Website,High Net Worth,32,81,47073.38,181.63,274.46,Yes,4
+TRX-10981,05-03-26 0:00,Drew,BR-010,North,Auto Loan,Website,Corporate,48,48,9553.21,125.36,70.4,No,5
+TRX-10982,07-11-25 0:00,Morgan,BR-009,North,Personal Loan,Walk-in,Corporate,48,2,28588.44,220.55,82.16,Yes,1
+TRX-10983,02-02-26 0:00,Casey,BR-013,West,Personal Loan,Walk-in,SME,53,84,19161.88,209.11,3.67,No,4
+TRX-10984,01-08-26 0:00,Drew,BR-010,Central,Auto Loan,Referral,High Net Worth,39,20,48263.97,109.61,81.15,Yes,2
+TRX-10985,14-06-26 0:00,Jordan,BR-015,East,Auto Loan,Referral,High Net Worth,48,59,14040.33,352.53,241.42,Yes,4
+TRX-10986,26-09-25 0:00,Morgan,BR-010,Central,Wealth Management,Social Media,Corporate,72,46,20283.07,278.91,123.1,No,1
+TRX-10987,16-03-26 0:00,Morgan,BR-007,West,Auto Loan,Walk-in,High Net Worth,69,3,49151.58,374.51,226.14,No,4
+TRX-10988,05-02-26 0:00,Jordan,BR-001,North,Wealth Management,Social Media,High Net Worth,57,55,27055.28,208.71,134.16,Yes,5
+TRX-10989,09-11-25 0:00,Drew,BR-007,Central,Mortgage,Email Campaign,High Net Worth,46,12,25380.19,196.57,92.93,Yes,3
+TRX-10990,30-09-25 0:00,Jordan,BR-010,Central,Personal Loan,Social Media,SME,55,40,13260.04,262.66,96.56,Yes,1
+TRX-10991,27-01-26 0:00,Morgan,BR-005,North,Auto Loan,Website,High Net Worth,54,66,35217.5,444.83,96.92,No,1
+TRX-10992,20-06-26 0:00,Jordan,BR-006,East,Personal Loan,Social Media,Retail,55,100,1211.46,68.13,167.79,No,1
+TRX-10993,27-04-26 0:00,Morgan,BR-010,North,Personal Loan,Referral,SME,60,78,2950.88,412.17,59.53,No,1
+TRX-10994,26-06-26 0:00,Morgan,BR-007,Central,Personal Loan,Email Campaign,High Net Worth,36,16,30168.25,216.04,197.92,Yes,4
+TRX-10995,03-04-26 0:00,Casey,BR-014,East,Mortgage,Website,High Net Worth,58,83,17412.89,434.58,41.1,Yes,5
+TRX-10996,11-02-26 0:00,Alex,BR-015,East,Credit Card,Social Media,Retail,33,34,47689.16,410.99,137.37,Yes,2
+TRX-10997,15-05-26 0:00,Morgan,BR-005,North,Auto Loan,Email Campaign,SME,43,44,45207.94,206.94,182.66,No,5
+TRX-10998,23-07-26 0:00,Drew,BR-007,Central,Credit Card,Email Campaign,Corporate,74,110,35828.46,362.24,121.72,Yes,1
+TRX-10999,09-05-26 0:00,Taylor,BR-009,West,Credit Card,Website,Corporate,42,6,40998.21,121.83,111.97,Yes,4
