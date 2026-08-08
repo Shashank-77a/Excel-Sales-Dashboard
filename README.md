@@ -1,2 +1,2 @@
 # Excel-Sales-Dashboard
-This Is My First Project
+Interactive Excel Sales Dashboard analyzing regional performance, KPIs, and revenue trends.
